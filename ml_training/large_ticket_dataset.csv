@@ -1,0 +1,3284 @@
+Document,Topic_group,Priority
+I need to download my payslip for March,HR Support,Low
+Where can I find my salary slip?,HR Support,Low
+My laptop screen is broken and flickering,Hardware,Medium
+I forgot my password and I am locked out,Access,High
+We need to order 5 new monitors,Purchase,Low
+I cannot login to the VPN,Access,High
+My mouse is not working properly,Hardware,Low
+Requesting a license for Adobe Photoshop,Purchase,Low
+How do I apply for sick leave?,HR Support,Low
+The printer is jammed and out of paper,Hardware,Medium
+I need a new keyboard because keys are stuck,Hardware,Low
+Portal for tax declaration is not working,HR Support,Medium
+Reset my account password please,Access,High
+My wifi is slow and keeps disconnecting,Hardware,Medium
+I need to purchase a standing desk,Purchase,Low
+Invoice for last month is incorrect,Billing,Medium
+Customer #9928 has a billing issue,Billing,Medium
+I cannot access the payroll portal,Access,High
+System says invalid credentials when logging in,Access,High
+My headset microphone is not working,Hardware,Low
+I want to apply for casual leave next week,HR Support,Low
+Please buy a PyCharm license for the team,Purchase,Low
+Laptop battery drains very fast,Hardware,Medium
+Refund request for transaction #INV-2024,Billing,Medium
+Error 403 when trying to access Jira,Access,High
+I need my Form-16 for tax filing,HR Support,Low
+The scanner in the hallway is dead,Hardware,Medium
+We need to procure 10 office chairs,Purchase,Low
+Double charge on my credit card,Billing,High
+I am unable to sign in to Outlook,Access,High
+My monitor is showing a blue screen,Hardware,High
+Where is the policy for work from home?,HR Support,Low
+Urgent: My computer is overheating and smoking,Hardware,High
+I need access rights to the AWS console,Access,Medium
+Payment for client #55 failed,Billing,High
+Requesting approval for a new whiteboard,Purchase,Low
+How do I check my provident fund balance?,HR Support,Low
+VPN connection failed due to timeout,Access,High
+My docking station is not charging my laptop,Hardware,Medium
+I need to update the billing address for invoice #999,Billing,Low
+Please order a new ergonomic mouse,Purchase,Low
+I cannot see my pay stub for December,HR Support,Low
+My account is locked after 3 failed attempts,Access,High
+The projector in the meeting room is broken,Hardware,Medium
+We need a subscription for Slack Premium,Purchase,Low
+Discrepancy in my salary calculation,HR Support,Medium
+I need to reset my MFA token,Access,High
+My CPU fan is making a loud noise,Hardware,Medium
+Quote approval needed for new server rack,Purchase,Low
+Customer is asking for a refund on order #102,Billing,Medium
+How do I claim gym reimbursement?,HR Support,Low
+I lost my ID card and need a new one,HR Support,Medium
+The coffee machine is leaking,Hardware,Low
+Internet is down in the 2nd floor office,Hardware,High
+I need to install Docker on my machine,Access,Medium
+Grant me admin rights for the new project,Access,Medium
+My screen resolution is stuck and blurry,Hardware,Low
+We need to buy a license for Zoom Pro,Purchase,Low
+Where do I submit my investment proof?,HR Support,Low
+I cannot connect to the shared drive,Access,High
+The server is unreachable,Access,High
+My laptop keyboard is spilling random characters,Hardware,Medium
+Requesting a quote for 50 laptops,Purchase,Low
+Billing cycle needs to be changed for client X,Billing,Low
+I did not receive my joining bonus,HR Support,High
+My email is not syncing on my phone,Access,Medium
+I need a replacement for my broken charger,Hardware,Medium
+We need to purchase a new router,Purchase,Medium
+The air conditioner in the server room is off,Hardware,High
+I forgot my username for the HR portal,Access,Medium
+How many paid leaves do I have left?,HR Support,Low
+My laptop won't turn on at all,Hardware,High
+Please order 3 external hard drives,Purchase,Low
+I am getting a 404 error on the internal wiki,Access,Medium
+My tax deduction seems too high,HR Support,Medium
+The webcam is not recognized by Zoom,Hardware,Medium
+We need to renew our domain name,Purchase,High
+I cannot print documents from my macbook,Access,Medium
+My payslip password is not working,HR Support,Medium
+My laptop battery is draining too fast,Hardware,Medium
+I need to download my payslip for April,HR Support,Low
+Where can I find the holiday calendar?,HR Support,Low
+Login failed for the VPN client,Access,High
+I forgot my SAP password,Access,High
+We need to order 3 new monitors for design team,Purchase,Low
+My mouse scroll wheel is broken,Hardware,Low
+Requesting a license for Adobe Illustrator,Purchase,Low
+How do I apply for paternity leave?,HR Support,Low
+The printer on the 3rd floor is jamming,Hardware,Medium
+I need a new mechanical keyboard,Hardware,Low
+Tax portal is throwing a 500 error,HR Support,Medium
+Please reset my domain password,Access,High
+WiFi signal is weak in the conference room,Hardware,Medium
+I need a headset with noise cancellation,Purchase,Low
+Invoice #3321 has the wrong amount,Billing,Medium
+Client #400 wants to update billing details,Billing,Low
+I cannot access the payroll dashboard,Access,High
+System says 'User not found' on login,Access,High
+My webcam is showing a black screen,Hardware,Medium
+I want to carry forward my casual leaves,HR Support,Low
+Please buy a IntelliJ IDEA license,Purchase,Low
+Laptop shuts down randomly,Hardware,High
+Refund status for transaction #9981?,Billing,Medium
+Permission denied when accessing /var/www,Access,High
+I need my tax computation sheet,HR Support,Low
+The barcode scanner is not beeping,Hardware,Medium
+We need 5 ergonomic chairs,Purchase,Low
+Unrecognized charge on the corporate card,Billing,High
+Outlook keeps crashing on startup,Access,High
+My monitor has dead pixels,Hardware,Low
+What is the policy for travel reimbursement?,HR Support,Low
+Urgent: Server room temperature is rising,Hardware,High
+I need read/write access to S3 bucket,Access,Medium
+Payment gateway failed for Order #551,Billing,High
+Requesting a new magnetic whiteboard,Purchase,Low
+How do I update my bank account details?,HR Support,High
+VPN disconnects every 10 minutes,Access,High
+Docking station USB ports are dead,Hardware,Medium
+Update the GST number for invoice #100,Billing,Low
+Please order a wireless trackpad,Purchase,Low
+I cannot view my bonus payout,HR Support,Medium
+Account locked due to multiple failed logins,Access,High
+The projector bulb has burnt out,Hardware,Medium
+We need a subscription for Figma,Purchase,Low
+Salary not credited for this month,HR Support,High
+I need to reset my RSA token,Access,High
+The CPU fan is grinding,Hardware,Medium
+Quote needed for 2TB SSDs,Purchase,Low
+Customer demands refund for late delivery,Billing,Medium
+How do I claim internet reimbursement?,HR Support,Low
+I lost my access badge,HR Support,Medium
+The water dispenser is leaking,Hardware,Low
+Internet is down for the sales team,Hardware,High
+I need sudo access on the dev server,Access,Medium
+Grant me access to the Git repository,Access,Medium
+Screen is flickering pink,Hardware,High
+We need to buy a license for Trello Gold,Purchase,Low
+Where do I upload my rent agreement?,HR Support,Low
+Cannot map the network drive Z:,Access,Medium
+The main database server is unreachable,Access,High
+Keyboard keys 'E' and 'R' are stuck,Hardware,Low
+Requesting a quote for 10 iPads,Purchase,Low
+Billing cycle change request for Client Y,Billing,Low
+I did not receive my relocation allowance,HR Support,High
+Email is not syncing on iOS,Access,Medium
+I need a replacement for my laptop charger,Hardware,Medium
+We need a new managed switch,Purchase,Medium
+AC in the server room is dripping water,Hardware,High
+Forgot username for the benefits portal,Access,Medium
+How many sick leaves do I have?,HR Support,Low
+My laptop won't boot past the logo,Hardware,High
+Please order 5 HDMI cables,Purchase,Low
+404 error on the internal knowledge base,Access,Medium
+Tax deduction is higher than expected,HR Support,Medium
+Microphone volume is too low,Hardware,Low
+We need to renew our SSL certificate,Purchase,High
+Cannot print from the guest network,Access,Medium
+Payslip PDF is password protected,HR Support,Low
+My external HDD is not detected,Hardware,Medium
+I need a larger monitor for coding,Purchase,Low
+Software update failed with error 1603,Access,Medium
+Client was charged twice for the same service,Billing,High
+How do I add a dependent to my insurance?,HR Support,Low
+The shredder is full and jammed,Hardware,Low
+I need a license for Microsoft Visio,Purchase,Low
+Cannot connect to the office WiFi,Access,High
+My chair height adjustment is broken,Hardware,Low
+Please update the billing contact for account #12,Billing,Low
+I need access to the production logs,Access,Medium
+Laptop screen is cracked,Hardware,Medium
+Where can I find the expense report template?,HR Support,Low
+I forgot the password for the admin panel,Access,High
+We need to buy 20 mouse pads,Purchase,Low
+The conference speakerphone is muffled,Hardware,Low
+Invoice #882 is overdue,Billing,Medium
+I cannot login to Salesforce,Access,High
+My computer freezes when opening Excel,Hardware,Medium
+Requesting a standing desk converter,Purchase,Low
+Is there a dress code policy?,HR Support,Low
+VPN client says 'Certificate Invalid',Access,High
+My laptop is overheating when charging,Hardware,Medium
+Update address on the next invoice,Billing,Low
+Please order a privacy screen filter,Purchase,Low
+I cannot access the leave management system,Access,High
+System asks for admin rights to install updates,Access,Medium
+My headset is only playing audio on one side,Hardware,Low
+We need a license for tableau,Purchase,Low
+Discrepancy in overtime payment,HR Support,Medium
+I need to reset my voicemail PIN,Access,Low
+Fan noise is distracting,Hardware,Low
+Quote for new firewall appliance,Purchase,Medium
+Customer #221 wants a credit note,Billing,Medium
+How do I claim LTA?,HR Support,Low
+I need a new lanyard for my ID,HR Support,Low
+The coffee machine is displaying an error,Hardware,Low
+Internet is slow in the break room,Hardware,Low
+I need to install Python 3.11,Access,Low
+Revoke access for the ex-employee,Access,High
+Monitor is too dim even at max brightness,Hardware,Low
+We need to buy a license for Asana,Purchase,Low
+Where do I submit medical bills?,HR Support,Low
+Cannot connect to the LDAP server,Access,High
+The backup server is offline,Access,High
+Spacebar is squeaking loudly,Hardware,Low
+Requesting a quote for a 3D printer,Purchase,Low
+Billing issue with vendor X,Billing,Medium
+I did not receive my shift allowance,HR Support,Medium
+Email signature is not updating,Access,Low
+I need a spare power cord,Hardware,Low
+We need to purchase a 4K webcam,Purchase,Low
+The server room door lock is broken,Hardware,High
+Forgot password for the wiki,Access,Medium
+How many privilege leaves can I encash?,HR Support,Low
+My desktop won't post,Hardware,High
+Please order 10 USB-C adapters,Purchase,Low
+502 Bad Gateway on the intranet,Access,Medium
+TDS deduction is incorrect,HR Support,Medium
+Webcam focus is broken,Hardware,Low
+We need to renew the Office 365 subscription,Purchase,High
+Cannot scan to email,Access,Medium
+Payslip portal is down,HR Support,High
+My USB drive is corrupted,Hardware,Medium
+I need a vertical mouse,Purchase,Low
+Application crashes on launch,Access,Medium
+Client disputes the hourly rate,Billing,Medium
+How do I change my emergency contact?,HR Support,Low
+The laminator is overheating,Hardware,Low
+I need a license for Sketch,Purchase,Low
+Cannot connect to the VPN from home,Access,High
+My desk drawer is stuck,Hardware,Low
+Please update the PO number on the invoice,Billing,Low
+I need access to the analytics dashboard,Access,Medium
+Laptop hinge is loose,Hardware,Low
+Where can I find the employee handbook?,HR Support,Low
+I forgot the root password,Access,High
+We need to buy 50 ballpoint pens,Purchase,Low
+The TV in the lobby is not working,Hardware,Low
+Invoice #771 was sent to wrong email,Billing,Medium
+I cannot login to Jira,Access,High
+My computer is slow to boot,Hardware,Low
+Requesting a footrest,Purchase,Low
+What are the core working hours?,HR Support,Low
+VPN authentication failed,Access,High
+My laptop battery is swelling,Hardware,High
+Correction needed on invoice #554,Billing,Low
+Please order a laptop stand,Purchase,Low
+I cannot access the performance review tool,Access,Medium
+System keeps locking me out,Access,High
+My headset wire is frayed,Hardware,Low
+We need a license for JetBrains All Products,Purchase,Low
+Bonus calculation seems wrong,HR Support,Medium
+I need to reset my biometrics,Access,Medium
+Hard drive makes clicking sound,Hardware,High
+Quote for cloud storage expansion,Purchase,Medium
+Customer #112 is asking for a discount,Billing,Low
+How do I claim mobile bill reimbursement?,HR Support,Low
+I need a new parking sticker,HR Support,Low
+The vending machine took my money,Hardware,Low
+Internet speed is below 1Mbps,Hardware,High
+I need to install Node.js,Access,Low
+Grant me access to the staging environment,Access,Medium
+Screen colors are inverted,Hardware,Medium
+We need to buy a license for Monday.com,Purchase,Low
+Where do I submit 80C proofs?,HR Support,Low
+Cannot access the file server,Access,High
+The mail server is blacklisted,Access,High
+Enter key is not registering,Hardware,Medium
+Requesting a quote for a projector,Purchase,Low
+Billing currency needs to be changed to USD,Billing,Low
+I did not receive my variable pay,HR Support,High
+Email is going to spam,Access,Medium
+I need a replacement for my broken mouse,Hardware,Low
+We need to purchase a UPS,Purchase,Medium
+The fire alarm panel is beeping,Hardware,High
+Forgot password for the time tracker,Access,Medium
+How many comp offs do I have?,HR Support,Low
+My laptop screen is black but power is on,Hardware,High
+Please order 20 notepads,Purchase,Low
+403 Forbidden on the HR portal,Access,High
+Professional tax is deducted twice,HR Support,Medium
+Speaker is crackling,Hardware,Low
+We need to renew the antivirus license,Purchase,High
+Cannot print double-sided,Hardware,Low
+Payslip is blank,HR Support,High
+My SSD is full,Hardware,Medium
+I need a dual monitor arm,Purchase,Low
+Software license expired error,Access,High
+Client claims they already paid invoice #33,Billing,High
+How do I update my marital status?,HR Support,Low
+The paper shredder is jammed again,Hardware,Low
+I need a license for AutoCAD,Purchase,Low
+Cannot connect to the guest WiFi,Access,Low
+My chair wheel is broken,Hardware,Low
+Please split the invoice into two,Billing,Low
+I need access to the marketing folder,Access,Low
+Laptop trackpad is unresponsive,Hardware,Medium
+Where can I find the sexual harassment policy?,HR Support,Low
+I forgot the wifi password,Access,Low
+We need to buy 100 markers,Purchase,Low
+The digital signage is frozen,Hardware,Low
+Invoice #990 is missing tax details,Billing,Medium
+I cannot login to Confluence,Access,High
+My computer restarts automatically,Hardware,High
+Requesting a back support cushion,Purchase,Low
+Is it a holiday on Friday?,HR Support,Low
+VPN connection dropped,Access,Medium
+My laptop runs very hot,Hardware,Medium
+Change the billing entity name,Billing,Low
+Please order a screen cleaning kit,Purchase,Low
+I cannot access the recruitment portal,Access,Medium
+System requires a restart loop,Hardware,High
+My headset is uncomfortable,Purchase,Low
+We need a license for LastPass,Purchase,Low
+Salary slip shows wrong designation,HR Support,Medium
+I need to reset my PIN,Access,Medium
+Fan is not spinning,Hardware,High
+Quote for new biometric system,Purchase,Medium
+Customer #881 wants to cancel subscription,Billing,High
+How do I claim fuel reimbursement?,HR Support,Low
+I need a new access card holder,HR Support,Low
+The microwave is sparking,Hardware,High
+Internet is unstable,Hardware,Medium
+I need to install VS Code,Access,Low
+Grant me access to the client VPN,Access,Medium
+Screen is too bright,Hardware,Low
+We need to buy a license for Spotify (Office),Purchase,Low
+Where do I submit HRA declaration?,HR Support,Low
+Cannot access the shared printer,Access,Medium
+The DNS server is not resolving,Access,High
+Shift key is stuck,Hardware,Low
+Requesting a quote for 5 headsets,Purchase,Low
+Billing address zip code is wrong,Billing,Low
+I did not receive my referral bonus,HR Support,Medium
+Email delivery failed,Access,Medium
+I need a replacement for my stolen laptop,Hardware,High
+We need to purchase a heavy duty stapler,Purchase,Low
+The server room door is jammed,Hardware,High
+Forgot password for the expense portal,Access,Medium
+How many days of leave can I carry over?,HR Support,Low
+My laptop freezes on login,Hardware,High
+Please order 5 extension cords,Purchase,Low
+500 Internal Server Error on the api,Access,High
+PF deduction is missing,HR Support,Medium
+Audio jack is loose,Hardware,Low
+We need to renew the domain registration,Purchase,High
+Cannot scan to folder,Access,Medium
+Payslip amount does not match offer letter,HR Support,High
+My USB port is physically broken,Hardware,Medium
+I need a wireless charger,Purchase,Low
+App crashes when saving,Access,Medium
+Client requested a breakdown of costs,Billing,Low
+How do I add a nominee to PF?,HR Support,Low
+The guillotine cutter is blunt,Hardware,Low
+I need a license for Premier Pro,Purchase,Low
+Cannot connect to the secured WiFi,Access,Medium
+My desk is wobbly,Hardware,Low
+Please consolidate these two invoices,Billing,Low
+I need access to the finance drive,Access,High
+Laptop screen has lines running through it,Hardware,Medium
+Where can I find the referral policy?,HR Support,Low
+I forgot the admin password,Access,High
+We need to buy 10 staplers,Purchase,Low
+The smart TV remote is missing,Hardware,Low
+Invoice #441 is duplicated,Billing,High
+I cannot login to GitHub,Access,High
+My computer is making a beeping noise,Hardware,Medium
+Requesting a wrist rest,Purchase,Low
+What are the rules for comp off?,HR Support,Low
+VPN refuses connection,Access,High
+My laptop battery is dead,Hardware,High
+Update the VAT number on invoice,Billing,Low
+Please order a webcam cover,Purchase,Low
+I cannot access the training portal,Access,Low
+System is infected with malware,Access,High
+My headset ear cushion is torn,Hardware,Low
+We need a license for Zoom Webinar,Purchase,Low
+Salary deduction without explanation,HR Support,High
+I need to reset my key fob,Access,Medium
+Fan is vibrating,Hardware,Low
+Quote for office renovation,Purchase,High
+Customer #332 wants to upgrade plan,Billing,Low
+How do I claim relocation expenses?,HR Support,Low
+I need a new business card,HR Support,Low
+The toaster is broken,Hardware,Low
+Internet is slow for upload,Hardware,Medium
+I need to install MySQL Workbench,Access,Low
+Grant me access to the UAT environment,Access,Medium
+Screen ghosting issue,Hardware,Low
+We need to buy a license for Canva,Purchase,Low
+Where do I submit investment declaration?,HR Support,Low
+Cannot access the backup drive,Access,High
+The proxy server is blocking google,Access,High
+Caps lock light is not working,Hardware,Low
+Requesting a quote for a NAS,Purchase,Low
+Billing contact email bounce back,Billing,Medium
+I did not receive my night shift allowance,HR Support,Medium
+Email keeps asking for password,Access,Medium
+I need a replacement for my broken screen,Hardware,Medium
+We need to purchase a label printer,Purchase,Low
+The server room AC is making noise,Hardware,Medium
+Forgot password for the travel portal,Access,Medium
+How many leaves do I have pro-rated?,HR Support,Low
+My laptop gives electric shocks,Hardware,High
+Please order 50 batteries,Purchase,Low
+401 Unauthorized on the gateway,Access,High
+Tax calculation error in payslip,HR Support,Medium
+Bluetooth is not working,Hardware,Low
+We need to renew the cloud subscription,Purchase,High
+Cannot print in color,Hardware,Low
+Payslip is not generated yet,HR Support,Medium
+My external drive is clicking,Hardware,High
+I need a laptop cooling pad,Purchase,Low
+Program refuses to open,Access,Low
+Client wants to pay via wire transfer,Billing,Low
+How do I change my pension scheme?,HR Support,Low
+The binding machine is jammed,Hardware,Low
+I need a license for Cinema 4D,Purchase,Low
+Cannot connect to the VPN from hotel,Access,Medium
+My chair gas lift is broken,Hardware,Low
+Please correct the date on invoice #22,Billing,Low
+I need access to the legal documents,Access,High
+Laptop keyboard backlight is dead,Hardware,Low
+Where can I find the resignation policy?,HR Support,Low
+I forgot the server password,Access,High
+We need to buy 5 scissors,Purchase,Low
+The projector remote is not working,Hardware,Low
+Invoice #665 needs approval,Billing,Medium
+I cannot login to Bitbucket,Access,High
+My computer is lagging severely,Hardware,Medium
+Requesting a foot pedal,Purchase,Low
+What is the notice period policy?,HR Support,Low
+VPN client update required,Access,Medium
+My laptop charger is sparking,Hardware,High
+Remove the tax from invoice #88,Billing,Low
+Please order a microfiber cloth,Purchase,Low
+I cannot access the onboarding portal,Access,Medium
+System update stuck at 99%,Hardware,Medium
+My headset is too tight,Purchase,Low
+We need a license for Grammarly,Purchase,Low
+Salary credited to wrong account,HR Support,High
+I need to reset my physical key,Access,High
+Fan is clean but still noisy,Hardware,Low
+Quote for new CCTV cameras,Purchase,Medium
+Customer #774 wants to downgrade,Billing,Low
+How do I claim certification cost?,HR Support,Low
+I need a new laptop bag,Purchase,Low
+The dishwasher is not draining,Hardware,Low
+Internet is down in the lobby,Hardware,Medium
+I need to install Postman,Access,Low
+Grant me access to the sandbox,Access,Medium
+Screen burn-in detected,Hardware,Low
+We need to buy a license for Miro,Purchase,Low
+Where do I submit tax proofs?,HR Support,Low
+Cannot access the archive folder,Access,Medium
+The web server is down,Access,High
+Num lock key is broken,Hardware,Low
+Requesting a quote for a scanner,Purchase,Low
+Billing cycle alignment needed,Billing,Low
+I did not receive my performance bonus,HR Support,High
+Email font size is too small,Access,Low
+I need a replacement for my keyboard,Hardware,Low
+We need to purchase a whiteboard eraser,Purchase,Low
+The server rack door is open,Hardware,Low
+Forgot password for the procurement portal,Access,Medium
+How many sick days are paid?,HR Support,Low
+My laptop screen is flickering,Hardware,Medium
+Please order 10 network cables,Purchase,Low
+400 Bad Request on the API,Access,Medium
+Income tax mismatch in Form 16,HR Support,Medium
+Headphone jack is broken,Hardware,Low
+We need to renew the maintenance contract,Purchase,High
+Cannot print A3 size,Hardware,Low
+Payslip has incorrect leave balance,HR Support,Low
+My SSD is slow,Hardware,Low
+I need a document holder,Purchase,Low
+App freezes when printing,Access,Medium
+Client #99 asked for invoice copy,Billing,Low
+How do I withdraw my PF?,HR Support,Low
+The hole puncher is broken,Hardware,Low
+I need a license for Final Cut Pro,Purchase,Low
+Cannot connect to the VPN from mobile,Access,Medium
+My chair armrest is loose,Hardware,Low
+Please send the receipt for invoice #11,Billing,Low
+I need access to the HR confidential folder,Access,High
+Laptop bezel is cracked,Hardware,Low
+Where can I find the code of conduct?,HR Support,Low
+I forgot the database password,Access,High
+We need to buy 20 glue sticks,Purchase,Low
+The mic on the podium is broken,Hardware,Medium
+Invoice #551 is lost,Billing,Medium
+I cannot login to GitLab,Access,High
+My computer crashes when playing video,Hardware,Medium
+Requesting a lumbar support,Purchase,Low
+What is the policy for gift acceptance?,HR Support,Low
+VPN token expired,Access,High
+My laptop battery is not charging,Hardware,High
+Add a PO number to invoice #77,Billing,Low
+Please order a keyboard cover,Purchase,Low
+I cannot access the exit interview link,Access,Medium
+System clock is wrong,Access,Low
+My headset is mutable but not unmutable,Hardware,Low
+We need a license for 1Password,Purchase,Low
+Salary hold due to attendance,HR Support,High
+I need to reset my smart card,Access,High
+Fan speed is uncontrollable,Hardware,Low
+Quote for new meeting table,Purchase,Medium
+Customer #552 is disputing charges,Billing,High
+How do I claim food allowance?,HR Support,Low
+I need a new security token,Access,High
+The fridge is not cooling,Hardware,Low
+Internet is intermittent,Hardware,Medium
+I need to install Ruby,Access,Low
+Grant me access to the demo environment,Access,Medium
+Screen has a vertical line,Hardware,Medium
+We need to buy a license for AirTable,Purchase,Low
+Where do I submit rent receipts?,HR Support,Low
+Cannot access the public folder,Access,Low
+The FTP server is slow,Access,Medium
+Delete key is stuck,Hardware,Low
+Requesting a quote for a shredder,Purchase,Low
+Billing period is wrong on invoice,Billing,Low
+I did not receive my conveyance allowance,HR Support,Medium
+Email attachments are blocked,Access,Medium
+I need a replacement for my mouse pad,Purchase,Low
+We need to purchase a cable organizer,Purchase,Low
+The server room light is out,Hardware,Low
+Forgot password for the learning portal,Access,Medium
+How many maternity leaves are allowed?,HR Support,Low
+My laptop is making a grinding noise,Hardware,High
+Please order 5 power strips,Purchase,Low
+408 Request Timeout,Access,Medium
+Tax code is wrong on payslip,HR Support,Medium
+Speakers are buzzing,Hardware,Low
+We need to renew the lease,Purchase,High
+Cannot print from Chrome,Access,Low
+Payslip shows zero earnings,HR Support,High
+My flash drive is write protected,Hardware,Low
+I need a privacy filter,Purchase,Low
+Program crashes on startup,Access,Medium
+Client #12 wants to pay by check,Billing,Low
+How do I update my address in HR records?,HR Support,Low
+The stapler is jammed,Hardware,Low
+I need a license for CorelDraw,Purchase,Low
+Cannot connect to the VPN via hotspot,Access,Medium
+My chair backrest is broken,Hardware,Low
+Please void invoice #44,Billing,Medium
+I need access to the strategy documents,Access,High
+Laptop rubber feet are missing,Hardware,Low
+Where can I find the safety manual?,HR Support,Low
+I forgot the wifi user,Access,Low
+We need to buy 100 paper clips,Purchase,Low
+The HDMI port on the TV is broken,Hardware,Medium
+Invoice #332 is underpaid,Billing,Medium
+I cannot login to Azure DevOps,Access,High
+My computer is infected with a virus,Access,High
+Requesting a desk lamp,Purchase,Low
+What is the policy for sabbaticals?,HR Support,Low
+VPN client is outdated,Access,Medium
+My laptop shuts down at 20% battery,Hardware,Medium
+Change the date on invoice #99,Billing,Low
+Please order a screen wipe,Purchase,Low
+I cannot access the survey tool,Access,Low
+System fan error on boot,Hardware,High
+My headset has static noise,Hardware,Low
+We need a license for Dropbox,Purchase,Low
+Salary delayed by 2 days,HR Support,Medium
+I need to reset my password manager,Access,High
+Fan is making a clicking sound,Hardware,Low
+Quote for new reception desk,Purchase,Medium
+Customer #993 requests a pro-forma invoice,Billing,Low
+How do I claim telephone reimbursement?,HR Support,Low
+I need a new gym membership card,HR Support,Low
+The kettle is broken,Hardware,Low
+Internet is slow in the lab,Hardware,Medium
+I need to install Git,Access,Low
+Grant me access to the production DB,Access,High
+Screen has a dead pixel,Hardware,Low
+We need to buy a license for LucidChart,Purchase,Low
+Where do I submit tax saving documents?,HR Support,Low
+Cannot access the team folder,Access,Medium
+The mail server is down,Access,High
+Tab key is broken,Hardware,Low
+Requesting a quote for a plotter,Purchase,Low
+Billing contact name is wrong,Billing,Low
+I did not receive my holiday pay,HR Support,High
+Email images are not loading,Access,Low
+I need a replacement for my laptop battery,Hardware,Medium
+We need to purchase a desk organizer,Purchase,Low
+The server room floor is wet,Hardware,High
+Forgot password for the insurance portal,Access,Medium
+How many days of paternity leave?,HR Support,Low
+My laptop screen is loose,Hardware,Medium
+Please order 2 extension cables,Purchase,Low
+503 Service Unavailable,Access,High
+Tax deducted but not reflected,HR Support,High
+Microphone is mute,Hardware,Low
+We need to renew the gym membership,Purchase,Low
+Cannot print to PDF,Access,Low
+Payslip font is unreadable,HR Support,Low
+My external SSD is overheating,Hardware,Medium
+I need a laptop stand with fan,Purchase,Low
+App is slow to respond,Access,Low
+Client #55 has not paid invoice #12,Billing,High
+How do I change my bank for salary?,HR Support,Low
+The scissors are dull,Hardware,Low
+I need a license for Maya,Purchase,Low
+Cannot connect to the VPN from airport,Access,Medium
+My chair is squeaking,Hardware,Low
+Please resend invoice #66,Billing,Low
+I need access to the audit logs,Access,High
+Laptop paint is chipping,Hardware,Low
+Where can I find the social media policy?,HR Support,Low
+I forgot the api key,Access,Medium
+We need to buy 50 rubber bands,Purchase,Low
+The projector is overheating,Hardware,Medium
+Invoice #221 has arithmetic error,Billing,Medium
+I cannot login to Trello,Access,Medium
+My computer has a black screen,Hardware,High
+Requesting a monitor riser,Purchase,Low
+What is the policy for moonlighting?,HR Support,Low
+VPN certificate expired,Access,High
+My laptop battery is bulging,Hardware,High
+Remove the discount from invoice #44,Billing,Low
+Please order a cleaning spray,Purchase,Low
+I cannot access the feedback form,Access,Low
+System keeps rebooting,Hardware,High
+My headset mic is loose,Hardware,Low
+We need a license for Evernote,Purchase,Low
+Salary includes unauthorized deduction,HR Support,High
+I need to reset my 2FA,Access,High
+Fan is always on max speed,Hardware,Low
+Quote for new carpet,Purchase,Low
+Customer #662 wants to pay via PayPal,Billing,Low
+How do I claim book allowance?,HR Support,Low
+I need a new parking tag,HR Support,Low
+The fan in the pantry is broken,Hardware,Low
+Internet is slow for download,Hardware,Medium
+I need to install Java,Access,Low
+Grant me access to the test server,Access,Medium
+Screen is tinted yellow,Hardware,Low
+We need to buy a license for Basecamp,Purchase,Low
+Where do I submit flexi benefit plan?,HR Support,Low
+Cannot access the archive,Access,Low
+The NTP server is unreachable,Access,Medium
+Esc key is not working,Hardware,Low
+Requesting a quote for a camera,Purchase,Low
+Billing address is incomplete,Billing,Low
+I did not receive my bonus letter,HR Support,Low
+Email is slow to send,Access,Low
+I need a replacement for my headset,Hardware,Low
+We need to purchase a file cabinet,Purchase,Low
+The server room humidity is high,Hardware,High
+Forgot password for the payroll system,Access,High
+How many days of bereavement leave?,HR Support,Low
+My laptop is missing a screw,Hardware,Low
+Please order 10 USB drives,Purchase,Low
+504 Gateway Timeout,Access,High
+Tax receipt is missing,HR Support,Medium
+Headphones are too quiet,Hardware,Low
+We need to renew the internet plan,Purchase,High
+Cannot print envelope,Hardware,Low
+Payslip needs a stamp,HR Support,Low
+My SD card is stuck,Hardware,Low
+I need a tablet stand,Purchase,Low
+App crashes on save,Access,Medium
+Client #77 is asking for credit,Billing,Medium
+How do I change my tax regime?,HR Support,Low
+The tape dispenser is broken,Hardware,Low
+I need a license for Blender,Purchase,Low
+Cannot connect to the VPN from cafe,Access,Medium
+My chair fabric is torn,Hardware,Low
+Please issue a refund for invoice #88,Billing,Medium
+I need access to the board meeting minutes,Access,High
+Laptop connects to wifi but no internet,Access,Medium
+Where can I find the whistleblower policy?,HR Support,Low
+I forgot the master password,Access,High
+We need to buy 20 sticky notes,Purchase,Low
+The TV has no signal,Hardware,Low
+Invoice #112 is fraudulent,Billing,High
+I cannot login to Slack,Access,High
+My computer is very hot,Hardware,High
+Requesting a gel mouse pad,Purchase,Low
+What is the policy for dating coworkers?,HR Support,Low
+VPN is slow,Access,Medium
+My laptop battery charge fluctuates,Hardware,Medium
+Add a comment to invoice #33,Billing,Low
+Please order a dusting brush,Purchase,Low
+I cannot access the voting system,Access,Low
+System hangs on shutdown,Hardware,Low
+My headset is broken in half,Hardware,Medium
+We need a license for Notion,Purchase,Low
+Salary credited twice,HR Support,High
+I need to reset my authenticator app,Access,High
+Fan is making a whistling noise,Hardware,Low
+Quote for new blinds,Purchase,Low
+Customer #442 wants to extend payment terms,Billing,Medium
+How do I claim newspaper allowance?,HR Support,Low
+I need a new locker key,HR Support,Low
+The stove is not working,Hardware,Low
+Internet is restricted,Access,Medium
+I need to install C++,Access,Low
+Grant me access to the devops tools,Access,High
+Screen is scratched,Hardware,Low
+We need to buy a license for Typeform,Purchase,Low
+Where do I submit rent agreement?,HR Support,Low
+Cannot access the private folder,Access,High
+The DHCP server is full,Access,High
+Home key is stuck,Hardware,Low
+Requesting a quote for a drone,Purchase,Low
+Billing state is wrong,Billing,Low
+I did not receive my confirmation letter,HR Support,Medium
+Email is marking good mail as spam,Access,Medium
+I need a replacement for my docking station,Hardware,Medium
+We need to purchase a coat rack,Purchase,Low
+The server room is dirty,Hardware,Low
+Forgot password for the crm,Access,High
+How many days of marriage leave?,HR Support,Low
+My laptop touchpad is erratic,Hardware,Medium
+Please order 3 displayport cables,Purchase,Low
+Connection refused error,Access,High
+Tax statement is unclear,HR Support,Low
+Speakers are popping,Hardware,Low
+We need to renew the cleaning contract,Purchase,Low
+Cannot print label,Hardware,Low
+Payslip is formatted wrong,HR Support,Low
+My memory card is unreadable,Hardware,Medium
+I need a phone stand,Purchase,Low
+App is unresponsive,Access,Medium
+Client #33 has a question about invoice #55,Billing,Low
+How do I update my mobile number?,HR Support,Low
+The glue gun is broken,Hardware,Low
+I need a license for Unity,Purchase,Low
+Cannot connect to the VPN from train,Access,Medium
+My chair is sinking,Hardware,Low
+Please cancel invoice #01,Billing,Medium
+I need access to the ceo folder,Access,High
+Laptop camera is blurry,Hardware,Low
+Where can I find the ip policy?,HR Support,Low
+My laptop is making a grinding noise,Hardware,Low
+I need to download my payslip for May,HR Support,Medium
+I cannot login to Salesforce,Access,High
+We need to order 10 monitors,Purchase,Low
+Invoice #4921 is incorrect,Billing,Medium
+The printer in the lobby is jammed,Hardware,High
+Where can I find the insurance policy?,HR Support,Low
+Reset my password for VPN,Access,Medium
+Requesting a license for Docker,Purchase,High
+Client #442 wants a credit note,Billing,Low
+I need a replacement for my headset,Hardware,Medium
+How do I update my bank account?,HR Support,High
+Access denied to financial reports,Access,Low
+Quote approval needed for standing desk,Purchase,Medium
+Refund request for double charge,Billing,High
+My webcam is flickering,Hardware,Low
+Discrepancy in my bonus statement,HR Support,Medium
+I need admin access for AWS,Access,High
+Renew subscription for Office 365,Purchase,Low
+Payment failed for invoice #1129,Billing,Medium
+Urgent: server is overheating,Hardware,High
+Query regarding WFH policy eligibility,HR Support,Low
+I cannot login to GitHub,Access,Medium
+We need to order 50 HDMI cables,Purchase,High
+Billing address error on invoice #8821,Billing,Low
+The scanner in the 2nd floor is dead,Hardware,Medium
+I need to download my Form-16 for April,HR Support,High
+System is throwing a 403 error,Access,Low
+Purchase request: laptop stand for the team,Purchase,Medium
+Invoice #3321 is missing tax info,Billing,High
+My docking station is not working,Hardware,Low
+Where can I find the travel policy?,HR Support,Medium
+Reset my password for SAP,Access,High
+Requesting a license for Tableau,Purchase,Low
+Client #991 wants a discount,Billing,Medium
+My keyboard keeps lagging randomly,Hardware,High
+How do I update my emergency contact?,HR Support,Low
+Access denied to HR records,Access,Medium
+Quote approval needed for ergonomic chair,Purchase,High
+Refund request for service outage,Billing,Low
+The monitor in the meeting room is frozen,Hardware,Medium
+Discrepancy in my tax report,HR Support,High
+I need read-only access for Jira,Access,Low
+Renew subscription for Figma,Purchase,Medium
+Invoice #7741 is overdue,Billing,High
+My mouse is broken,Hardware,Low
+Query regarding leave policy eligibility,HR Support,Medium
+I cannot login to Slack,Access,High
+We need to order 5 whiteboards,Purchase,Low
+Payment failed for invoice #2219,Billing,Medium
+My laptop battery is swelling,Hardware,High
+I need to download my experience letter for June,HR Support,Low
+I need root access for server,Access,Medium
+Purchase request: monitor for the team,Purchase,High
+Client #112 wants a cancellation,Billing,Low
+My headset keeps cutting out,Hardware,Medium
+Where can I find the reimbursement policy?,HR Support,High
+Reset my password for Outlook,Access,Low
+Requesting a license for Photoshop,Purchase,Medium
+Invoice #5521 is duplicated,Billing,High
+The server in the server room is smoking,Hardware,Low
+How do I update my marital status?,HR Support,Medium
+Access denied to admin folder,Access,High
+Quote approval needed for HDMI cable,Purchase,Low
+Refund request for late delivery,Billing,Medium
+My screen is cracked,Hardware,High
+Discrepancy in my offer letter,HR Support,Low
+I need write access for shared drive,Access,Medium
+Renew subscription for IntelliJ,Purchase,High
+Billing address error on invoice #6612,Billing,Low
+My printer is offline,Hardware,Medium
+Query regarding insurance policy eligibility,HR Support,High
+I cannot login to Zoom,Access,Low
+We need to order 100 laptop stands,Purchase,Medium
+Invoice #9921 is underpaid,Billing,High
+The projector is not working,Hardware,Low
+I need to download my tax report for January,HR Support,Medium
+System is throwing a 500 error,Access,High
+Purchase request: ergonomic chair for the team,Purchase,Low
+Client #882 wants a billing update,Billing,Medium
+My hard drive is clicking,Hardware,High
+Where can I find the leave policy?,HR Support,Low
+Reset my password for HR Portal,Access,Medium
+Requesting a license for Office 365,Purchase,High
+Invoice #1234 is incorrect,Billing,Low
+My fan is making a loud noise,Hardware,Medium
+How do I update my address?,HR Support,High
+Access denied to marketing assets,Access,Low
+Quote approval needed for monitor,Purchase,Medium
+Refund request for accidental purchase,Billing,High
+My laptop is overheating,Hardware,Low
+Discrepancy in my payslip,HR Support,Medium
+I need developer access for GitHub,Access,High
+Renew subscription for Docker,Purchase,Low
+Payment failed for invoice #5511,Billing,Medium
+The webcam in the cafeteria is broken,Hardware,High
+Query regarding travel policy eligibility,HR Support,Low
+I cannot login to Jira,Access,Medium
+My monitor is flickering constantly,Hardware,Medium
+I need to update my tax declaration for FY2026,HR Support,Low
+Where can I find the list of company holidays?,HR Support,Low
+I cannot access the shared drive from home,Access,High
+Reset my password for the payroll system,Access,High
+We need to order 5 ergonomic chairs for the new team,Purchase,Low
+My mouse double clicks when I click once,Hardware,Low
+Requesting a license for Slack Enterprise,Purchase,Low
+How do I apply for marriage leave?,HR Support,Low
+The printer on the 4th floor is out of toner,Hardware,Medium
+I need a new laptop charger,Hardware,Medium
+Portal for appraisal submission is down,HR Support,High
+Please unlock my account,Access,High
+WiFi is not connecting in the boardroom,Hardware,High
+I need a noise-cancelling headset,Purchase,Low
+Invoice #9901 has an incorrect billing address,Billing,Medium
+Client #202 is asking for a refund,Billing,High
+I cannot access the admin panel,Access,High
+Login page is looping,Access,High
+My webcam is blurry,Hardware,Low
+I want to check my leave balance,HR Support,Low
+Please buy a license for JetBrains,Purchase,Low
+Laptop freezes when opening large Excel files,Hardware,Medium
+Refund status for order #5512?,Billing,Medium
+Error 503 when accessing the wiki,Access,Medium
+I need my payslip for January 2026,HR Support,Low
+The barcode scanner is not reading codes,Hardware,Medium
+We need 10 new keyboards,Purchase,Low
+Double billing on invoice #441,Billing,High
+Outlook is not syncing emails,Access,High
+My screen has a blue tint,Hardware,Low
+What is the policy for gym reimbursement?,HR Support,Low
+Urgent: My CPU fan is not spinning,Hardware,High
+I need access to the production database,Access,High
+Payment for vendor #88 failed,Billing,High
+Requesting a new standing desk,Purchase,Low
+How do I change my provident fund nomination?,HR Support,Low
+VPN keeps disconnecting,Access,High
+Docking station is not recognizing my monitors,Hardware,Medium
+Update the GST details for client X,Billing,Low
+Please order a wireless mouse,Purchase,Low
+I cannot view my tax sheet,HR Support,Medium
+Account locked after vacation,Access,High
+The projector is displaying purple colors,Hardware,Medium
+We need a subscription for Adobe Creative Cloud,Purchase,Low
+Salary not deposited yet,HR Support,High
+I need to reset my MFA device,Access,High
+My laptop is making a buzzing sound,Hardware,Medium
+Quote needed for a new server,Purchase,Low
+Customer disputes the service charge,Billing,Medium
+How do I claim LTA reimbursement?,HR Support,Low
+I lost my ID card,HR Support,Medium
+The water cooler is not cooling,Hardware,Low
+Internet is slow in the dev bay,Hardware,Medium
+I need admin rights on my local machine,Access,Medium
+Grant me access to the Gitlab repo,Access,Medium
+Screen goes black intermittently,Hardware,High
+We need to buy a license for Trello,Purchase,Low
+Where do I upload my investment proofs?,HR Support,Low
+Cannot map network drive X:,Access,Medium
+The main file server is down,Access,High
+Keyboard spacebar is stuck,Hardware,Low
+Requesting a quote for 20 monitors,Purchase,Low
+Billing cycle change for next month,Billing,Low
+I did not receive my joining bonus,HR Support,High
+Email is not working on mobile,Access,Medium
+I need a replacement for my broken headset,Hardware,Medium
+We need to purchase a new router for the lab,Purchase,Medium
+AC in the server room is not working,Hardware,High
+Forgot username for the expense portal,Access,Medium
+How many sick leaves do I have left?,HR Support,Low
+My laptop wont turn on,Hardware,High
+Please order 5 HDMI adapters,Purchase,Low
+404 error on the internal tool,Access,Medium
+Tax deduction seems incorrect,HR Support,Medium
+Microphone is picking up too much background noise,Hardware,Low
+We need to renew our domain,Purchase,High
+Cannot print from my Macbook,Access,Medium
+Payslip password is not working,HR Support,Medium
+My external hard drive is not detected,Hardware,Medium
+I need a larger monitor,Purchase,Low
+Software installation failed with error,Access,Medium
+Client was charged for a cancelled service,Billing,High
+How do I add my spouse to insurance?,HR Support,Low
+The shredder is jammed,Hardware,Low
+I need a license for Visio,Purchase,Low
+Cannot connect to office WiFi,Access,High
+My chair is broken,Hardware,Low
+Please update the billing contact for client #12,Billing,Low
+I need access to the logs folder,Access,Medium
+Laptop screen is cracked at the corner,Hardware,Medium
+Where can I find the expense policy?,HR Support,Low
+I forgot the password for the router,Access,High
+We need to buy 50 mouse pads,Purchase,Low
+The conference phone is not working,Hardware,Medium
+Invoice #772 is past due,Billing,Medium
+I cannot login to Jira,Access,High
+My computer is slow,Hardware,Low
+Requesting a foot rest,Purchase,Low
+Is there a dress code?,HR Support,Low
+VPN client says certificate expired,Access,High
+My laptop runs hot,Hardware,Medium
+Update address on invoice #991,Billing,Low
+Please order a privacy screen,Purchase,Low
+I cannot access the leave portal,Access,High
+System asks for admin password for update,Access,Medium
+My headset has static,Hardware,Low
+We need a license for Tableau,Purchase,Low
+Discrepancy in overtime pay,HR Support,Medium
+I need to reset my voicemail password,Access,Low
+Fan noise is too loud,Hardware,Low
+Quote for new firewall,Purchase,Medium
+Customer #221 wants to cancel,Billing,High
+How do I claim internet bill?,HR Support,Low
+I need a new lanyard,HR Support,Low
+The coffee machine is broken,Hardware,Low
+Internet is down,Hardware,High
+I need to install Python,Access,Low
+Revoke access for user X,Access,High
+Monitor is too bright,Hardware,Low
+We need to buy a license for Asana,Purchase,Low
+Where do I submit medical receipts?,HR Support,Low
+Cannot connect to LDAP,Access,High
+The backup is failing,Access,High
+Enter key is squeaking,Hardware,Low
+Requesting a quote for a 3D printer,Purchase,Low
+Billing issue with vendor Y,Billing,Medium
+I did not receive my shift allowance,HR Support,Medium
+Email signature is wrong,Access,Low
+I need a spare charger,Hardware,Low
+We need to purchase a 4K monitor,Purchase,Low
+The server room door is unlocked,Hardware,High
+Forgot password for the wiki,Access,Medium
+How many privilege leaves can I carry forward?,HR Support,Low
+My desktop blue screens,Hardware,High
+Please order 10 USB-C cables,Purchase,Low
+502 Bad Gateway on the intranet,Access,Medium
+TDS deduction is missing,HR Support,Medium
+Webcam is too dark,Hardware,Low
+We need to renew the Office 365 license,Purchase,High
+Cannot scan documents,Access,Medium
+Payslip portal is slow,HR Support,Low
+My USB drive is broken,Hardware,Medium
+I need a vertical mouse,Purchase,Low
+Application crashes frequently,Access,Medium
+Client disputes the invoice amount,Billing,High
+How do I change my emergency contact number?,HR Support,Low
+The laminator is not heating up,Hardware,Low
+I need a license for Sketch,Purchase,Low
+Cannot connect to VPN from hotel,Access,Medium
+My desk is too high,Hardware,Low
+Please update the PO number,Billing,Low
+I need access to the analytics tool,Access,Medium
+Laptop hinge is broken,Hardware,Medium
+Where can I find the employee handbook?,HR Support,Low
+I forgot the root password,Access,High
+We need to buy 20 pens,Purchase,Low
+The TV in the lobby is off,Hardware,Low
+Invoice #771 was sent to the wrong person,Billing,Medium
+I cannot login to Confluence,Access,High
+My computer freezes often,Hardware,Medium
+Requesting a back support,Purchase,Low
+What are the working hours?,HR Support,Low
+VPN authentication failed,Access,High
+My laptop battery is dead,Hardware,High
+Correction needed on invoice #554,Billing,Low
+Please order a laptop stand,Purchase,Low
+I cannot access the performance tool,Access,Medium
+System keeps locking me out,Access,High
+My headset wire is broken,Hardware,Low
+We need a license for Zoom,Purchase,Low
+Bonus amount is wrong,HR Support,Medium
+I need to reset my biometrics,Access,Medium
+Hard drive makes clicking noise,Hardware,High
+Quote for cloud storage,Purchase,Medium
+Customer #112 is asking for a discount,Billing,Low
+How do I claim mobile reimbursement?,HR Support,Low
+I need a new parking sticker,HR Support,Low
+The vending machine is empty,Hardware,Low
+Internet speed is very slow,Hardware,Medium
+I need to install Node.js,Access,Low
+Grant me access to the staging server,Access,Medium
+Screen colors are weird,Hardware,Medium
+We need to buy a license for Monday.com,Purchase,Low
+Where do I submit 80C proofs?,HR Support,Low
+Cannot access the file server,Access,High
+The mail server is blacklisted,Access,High
+Tab key is not working,Hardware,Medium
+Requesting a quote for a projector,Purchase,Low
+Billing currency is wrong,Billing,Low
+I did not receive my variable pay,HR Support,High
+Email is going to spam,Access,Medium
+I need a replacement for my mouse,Hardware,Low
+We need to purchase a UPS,Purchase,Medium
+The fire alarm is beeping,Hardware,High
+Forgot password for the time sheet,Access,Medium
+How many comp offs do I have?,HR Support,Low
+My laptop screen is black,Hardware,High
+Please order 20 notebooks,Purchase,Low
+403 Forbidden on the HR portal,Access,High
+Professional tax is deducted wrongly,HR Support,Medium
+Speaker is not working,Hardware,Low
+We need to renew the antivirus,Purchase,High
+Cannot print double sided,Hardware,Low
+Payslip is blank,HR Support,High
+My SSD is failing,Hardware,High
+I need a dual monitor setup,Purchase,Low
+Software license expired,Access,High
+Client claims they paid invoice #33,Billing,High
+How do I update my marital status?,HR Support,Low
+The paper shredder is full,Hardware,Low
+I need a license for AutoCAD,Purchase,Low
+Cannot connect to guest WiFi,Access,Low
+My chair wheel is stuck,Hardware,Low
+Please split the invoice,Billing,Low
+I need access to the marketing folder,Access,Low
+Laptop trackpad is broken,Hardware,Medium
+Where can I find the harassment policy?,HR Support,Low
+I forgot the wifi password,Access,Low
+We need to buy 100 markers,Purchase,Low
+The digital signage is black,Hardware,Low
+Invoice #990 is missing details,Billing,Medium
+I cannot login to Bitbucket,Access,High
+My computer restarts randomly,Hardware,High
+Requesting a cushion,Purchase,Low
+Is Friday a holiday?,HR Support,Low
+VPN connection dropped,Access,Medium
+My laptop overheats,Hardware,Medium
+Change the billing name,Billing,Low
+Please order a screen cleaner,Purchase,Low
+I cannot access the recruitment tool,Access,Medium
+System requires restart,Hardware,Medium
+My headset is uncomfortable,Purchase,Low
+We need a license for LastPass,Purchase,Low
+Salary slip shows wrong title,HR Support,Medium
+I need to reset my PIN,Access,Medium
+Fan is stopped,Hardware,High
+Quote for new CCTV,Purchase,Medium
+Customer #881 wants to downgrade,Billing,Low
+How do I claim fuel bills?,HR Support,Low
+I need a new access card holder,HR Support,Low
+The microwave is broken,Hardware,Low
+Internet is unstable,Hardware,Medium
+I need to install VS Code,Access,Low
+Grant me access to the client VPN,Access,Medium
+Screen is too dim,Hardware,Low
+We need to buy a license for Spotify,Purchase,Low
+Where do I submit HRA proofs?,HR Support,Low
+Cannot access the shared printer,Access,Medium
+The DNS server is down,Access,High
+Shift key is broken,Hardware,Low
+Requesting a quote for 5 headsets,Purchase,Low
+Billing address zip code is wrong,Billing,Low
+I did not receive my referral bonus,HR Support,Medium
+Email delivery failure,Access,Medium
+I need a replacement for my laptop,Hardware,High
+We need to purchase a stapler,Purchase,Low
+The server room is hot,Hardware,High
+Forgot password for the travel portal,Access,Medium
+How many days of leave can I carry over?,HR Support,Low
+My laptop freezes on login,Hardware,High
+Please order 5 extension cords,Purchase,Low
+500 Internal Server Error,Access,High
+PF deduction is wrong,HR Support,Medium
+Audio jack is broken,Hardware,Low
+We need to renew the domain name,Purchase,High
+Cannot scan to folder,Access,Medium
+Payslip amount is wrong,HR Support,High
+My USB port is loose,Hardware,Medium
+I need a wireless charger,Purchase,Low
+App crashes on launch,Access,Medium
+Client requested a breakdown,Billing,Low
+How do I add a nominee?,HR Support,Low
+The paper cutter is dull,Hardware,Low
+I need a license for Premiere Pro,Purchase,Low
+Cannot connect to VPN from home,Access,Medium
+My desk is wobbling,Hardware,Low
+Please consolidate invoices,Billing,Low
+I need access to the finance folder,Access,High
+Laptop screen has lines,Hardware,Medium
+Where can I find the referral policy?,HR Support,Low
+I forgot the admin password,Access,High
+We need to buy 10 staplers,Purchase,Low
+The smart TV is not working,Hardware,Low
+Invoice #441 is missing,Billing,High
+I cannot login to GitHub,Access,High
+My computer beeps,Hardware,Medium
+Requesting a wrist rest,Purchase,Low
+What are the comp off rules?,HR Support,Low
+VPN refuses connection,Access,High
+My laptop battery is draining fast,Hardware,Medium
+Update the VAT number,Billing,Low
+Please order a webcam cover,Purchase,Low
+I cannot access the training site,Access,Low
+System has a virus,Access,High
+My headset ear pad is torn,Hardware,Low
+We need a license for Zoom Webinar,Purchase,Low
+Salary deduction unexplained,HR Support,High
+I need to reset my key fob,Access,Medium
+Fan is vibrating,Hardware,Low
+Quote for office painting,Purchase,High
+Customer #332 wants to upgrade,Billing,Low
+How do I claim relocation?,HR Support,Low
+I need a new business card,HR Support,Low
+The toaster is burnt,Hardware,Low
+Internet is slow for upload,Hardware,Medium
+I need to install MySQL,Access,Low
+Grant me access to UAT,Access,Medium
+Screen ghosting,Hardware,Low
+We need to buy a license for Canva,Purchase,Low
+Where do I submit investment declaration?,HR Support,Low
+Cannot access the backup,Access,High
+The proxy is blocking sites,Access,High
+Caps lock is stuck,Hardware,Low
+Requesting a quote for a NAS,Purchase,Low
+Billing contact email bounce,Billing,Medium
+I did not receive my night allowance,HR Support,Medium
+Email keeps asking for password,Access,Medium
+I need a replacement for my screen,Hardware,Medium
+We need to purchase a label maker,Purchase,Low
+The server room AC is noisy,Hardware,Medium
+Forgot password for the insurance portal,Access,Medium
+How many leaves do I get?,HR Support,Low
+My laptop shocks me,Hardware,High
+Please order 50 batteries,Purchase,Low
+401 Unauthorized,Access,High
+Tax calculation error,HR Support,Medium
+Bluetooth is broken,Hardware,Low
+We need to renew the cloud subscription,Purchase,High
+Cannot print color,Hardware,Low
+Payslip is not generated,HR Support,Medium
+My external drive is clicking,Hardware,High
+I need a cooling pad,Purchase,Low
+Program won't open,Access,Low
+Client wants to pay by check,Billing,Low
+How do I change my pension?,HR Support,Low
+The binding machine is broken,Hardware,Low
+I need a license for Cinema 4D,Purchase,Low
+Cannot connect to VPN from mobile,Access,Medium
+My chair lift is broken,Hardware,Low
+Please correct the date on invoice,Billing,Low
+I need access to legal docs,Access,High
+Laptop keyboard backlight is broken,Hardware,Low
+Where can I find the resignation policy?,HR Support,Low
+I forgot the server password,Access,High
+We need to buy 5 scissors,Purchase,Low
+The projector remote is lost,Hardware,Low
+Invoice #665 is wrong,Billing,Medium
+I cannot login to Bitbucket,Access,High
+My computer lags,Hardware,Medium
+Requesting a foot pedal,Purchase,Low
+What is the notice period?,HR Support,Low
+VPN client update needed,Access,Medium
+My laptop charger sparks,Hardware,High
+Remove tax from invoice,Billing,Low
+Please order a microfiber cloth,Purchase,Low
+I cannot access the onboarding,Access,Medium
+System update stuck,Hardware,Medium
+My headset is tight,Purchase,Low
+We need a license for Grammarly,Purchase,Low
+Salary credited to wrong bank,HR Support,High
+I need to reset my physical key,Access,High
+Fan is noisy,Hardware,Low
+Quote for new carpet,Purchase,Low
+Customer #774 wants to cancel,Billing,High
+How do I claim certification?,HR Support,Low
+I need a new bag,Purchase,Low
+The dishwasher is full,Hardware,Low
+Internet is down in lobby,Hardware,Medium
+I need to install Postman,Access,Low
+Grant me access to sandbox,Access,Medium
+Screen burn in,Hardware,Low
+We need to buy a license for Miro,Purchase,Low
+Where do I submit tax proofs?,HR Support,Low
+Cannot access archive,Access,Medium
+The web server is down,Access,High
+Num lock is broken,Hardware,Low
+Requesting a quote for a scanner,Purchase,Low
+Billing cycle alignment,Billing,Low
+I did not receive my bonus,HR Support,High
+Email font is small,Access,Low
+I need a replacement keyboard,Hardware,Low
+We need to purchase an eraser,Purchase,Low
+The server rack is open,Hardware,Low
+Forgot password for procurement,Access,Medium
+How many sick days are paid?,HR Support,Low
+My laptop screen flickers,Hardware,Medium
+Please order 10 network cables,Purchase,Low
+400 Bad Request,Access,Medium
+Income tax mismatch,HR Support,Medium
+Headphone jack is loose,Hardware,Low
+We need to renew maintenance,Purchase,High
+Cannot print A3,Hardware,Low
+Payslip leave balance wrong,HR Support,Low
+My SSD is slow,Hardware,Low
+I need a document holder,Purchase,Low
+App freezes on print,Access,Medium
+Client #99 asked for invoice,Billing,Low
+How do I withdraw PF?,HR Support,Low
+The hole punch is broken,Hardware,Low
+I need a license for Final Cut,Purchase,Low
+Cannot connect to VPN from cafe,Access,Medium
+My chair is torn,Hardware,Low
+Please refund invoice #88,Billing,Medium
+I need access to board minutes,Access,High
+Laptop has no internet,Access,Medium
+Where can I find the whistleblower policy?,HR Support,Low
+I forgot the master password,Access,High
+We need to buy 20 sticky notes,Purchase,Low
+The TV has no signal,Hardware,Low
+Invoice #112 is fraud,Billing,High
+I cannot login to Slack,Access,High
+My computer is hot,Hardware,High
+Requesting a gel pad,Purchase,Low
+What is the dating policy?,HR Support,Low
+VPN is slow,Access,Medium
+My laptop battery fluctuates,Hardware,Medium
+Add comment to invoice,Billing,Low
+Please order a duster,Purchase,Low
+I cannot access voting,Access,Low
+System hangs on shutdown,Hardware,Low
+My headset is broken,Hardware,Medium
+We need a license for Notion,Purchase,Low
+Salary credited twice,HR Support,High
+I need to reset authenticator,Access,High
+Fan whistles,Hardware,Low
+Quote for blinds,Purchase,Low
+Customer #442 extend payment,Billing,Medium
+How do I claim newspaper?,HR Support,Low
+I need a new locker key,HR Support,Low
+The stove is broken,Hardware,Low
+Internet restricted,Access,Medium
+I need to install C++,Access,Low
+Grant me access to devops,Access,High
+Screen scratched,Hardware,Low
+We need to buy a license for Typeform,Purchase,Low
+Where do I submit rent agreement?,HR Support,Low
+Cannot access private folder,Access,High
+The DHCP server is full,Access,High
+Home key stuck,Hardware,Low
+Requesting a quote for drone,Purchase,Low
+Billing state wrong,Billing,Low
+I did not receive confirmation,HR Support,Medium
+Email spam filter too strong,Access,Medium
+I need a replacement dock,Hardware,Medium
+We need to purchase a coat rack,Purchase,Low
+The server room is dirty,Hardware,Low
+Forgot password for crm,Access,High
+How many marriage leaves?,HR Support,Low
+My laptop touchpad crazy,Hardware,Medium
+Please order 3 cables,Purchase,Low
+Connection refused,Access,High
+Tax statement unclear,HR Support,Low
+Speakers popping,Hardware,Low
+We need to renew cleaning,Purchase,Low
+Cannot print label,Hardware,Low
+Payslip format wrong,HR Support,Low
+My memory card error,Hardware,Medium
+I need a phone stand,Purchase,Low
+App unresponsive,Access,Medium
+Client #33 question invoice,Billing,Low
+How do I update mobile?,HR Support,Low
+The glue gun broken,Hardware,Low
+I need a license for Unity,Purchase,Low
+Cannot connect to VPN from train,Access,Medium
+My chair sinking,Hardware,Low
+Please cancel invoice,Billing,Medium
+I need access to ceo folder,Access,High
+Laptop camera blurry,Hardware,Low
+Where can I find ip policy?,HR Support,Low
+I forgot api key,Access,Medium
+We need to buy 50 bands,Purchase,Low
+The projector hot,Hardware,Medium
+Invoice #221 error,Billing,Medium
+I cannot login to Trello,Access,Medium
+My computer black screen,Hardware,High
+Requesting monitor riser,Purchase,Low
+What is moonlighting policy?,HR Support,Low
+VPN token expired,Access,High
+My laptop battery bulging,Hardware,High
+Remove discount invoice,Billing,Low
+Please order cleaning spray,Purchase,Low
+I cannot access feedback,Access,Low
+System reboots loop,Hardware,High
+My headset mic loose,Hardware,Low
+We need a license for Evernote,Purchase,Low
+Salary unauthorized deduction,HR Support,High
+I need to reset 2FA,Access,High
+Fan max speed,Hardware,Low
+Quote for new table,Purchase,Medium
+Customer #552 dispute,Billing,High
+How do I claim food?,HR Support,Low
+I need a new token,Access,High
+The fridge broken,Hardware,Low
+Internet intermittent,Hardware,Medium
+I need to install Ruby,Access,Low
+Grant me access to demo,Access,Medium
+Screen vertical line,Hardware,Medium
+We need to buy a license for AirTable,Purchase,Low
+Where do I submit receipts?,HR Support,Low
+Cannot access public folder,Access,Low
+The FTP server slow,Access,Medium
+Delete key stuck,Hardware,Low
+Requesting a quote for shredder,Purchase,Low
+Billing period wrong,Billing,Low
+I did not receive conveyance,HR Support,Medium
+Email attachment blocked,Access,Medium
+I need a replacement mouse pad,Purchase,Low
+We need to purchase organizer,Purchase,Low
+The server room light out,Hardware,Low
+Forgot password for learning,Access,Medium
+How many maternity leaves?,HR Support,Low
+My laptop grinding,Hardware,High
+Please order 5 strips,Purchase,Low
+408 Timeout,Access,Medium
+Tax code wrong,HR Support,Medium
+Speakers buzzing,Hardware,Low
+We need to renew lease,Purchase,High
+Cannot print Chrome,Access,Low
+Payslip zero earnings,HR Support,High
+My flash drive read only,Hardware,Low
+I need privacy filter,Purchase,Low
+Program crash startup,Access,Medium
+Client #12 check payment,Billing,Low
+How do I update address?,HR Support,Low
+The stapler jammed,Hardware,Low
+I need a license for Corel,Purchase,Low
+Cannot connect to VPN hotspot,Access,Medium
+My chair back broken,Hardware,Low
+Please void invoice,Billing,Medium
+I need access to strategy,Access,High
+Laptop rubber feet missing,Hardware,Low
+Where can I find safety manual?,HR Support,Low
+I forgot wifi user,Access,Low
+We need to buy 100 clips,Purchase,Low
+The HDMI port broken,Hardware,Medium
+Invoice #332 underpaid,Billing,Medium
+I cannot login to Azure,Access,High
+My computer virus,Access,High
+Requesting desk lamp,Purchase,Low
+What is sabbatical policy?,HR Support,Low
+VPN outdated,Access,Medium
+My laptop shuts down 20%,Hardware,Medium
+Change date invoice,Billing,Low
+Please order screen wipe,Purchase,Low
+I cannot access survey,Access,Low
+System fan error,Hardware,High
+My headset static,Hardware,Low
+We need a license for Dropbox,Purchase,Low
+Salary delayed,HR Support,Medium
+I need to reset password manager,Access,High
+Fan clicking,Hardware,Low
+Quote for reception,Purchase,Medium
+Customer #993 proforma,Billing,Low
+How do I claim telephone?,HR Support,Low
+I need a new gym card,HR Support,Low
+The kettle broken,Hardware,Low
+Internet slow lab,Hardware,Medium
+I need to install Git,Access,Low
+Grant me access to production,Access,High
+Screen dead pixel,Hardware,Low
+We need to buy a license for LucidChart,Purchase,Low
+Where do I submit tax saving?,HR Support,Low
+Cannot access team folder,Access,Medium
+The mail server down,Access,High
+Tab key broken,Hardware,Low
+Requesting a quote for plotter,Purchase,Low
+Billing contact name wrong,Billing,Low
+I did not receive holiday pay,HR Support,High
+Email images not loading,Access,Low
+I need a replacement battery,Hardware,Medium
+We need to purchase desk organizer,Purchase,Low
+The server room wet,Hardware,High
+Forgot password for insurance,Access,Medium
+How many paternity leaves?,HR Support,Low
+My laptop screen loose,Hardware,Medium
+Please order 2 cables,Purchase,Low
+503 Service Unavailable,Access,High
+Tax deducted not reflected,HR Support,High
+Microphone mute,Hardware,Low
+We need to renew gym,Purchase,Low
+Cannot print PDF,Access,Low
+Payslip unreadable,HR Support,Low
+My external SSD hot,Hardware,Medium
+I need a stand fan,Purchase,Low
+App slow,Access,Low
+Client #55 not paid,Billing,High
+How do I change bank?,HR Support,Low
+The scissors dull,Hardware,Low
+I need a license for Maya,Purchase,Low
+Cannot connect to VPN airport,Access,Medium
+My chair squeaking,Hardware,Low
+Please resend invoice,Billing,Low
+I need access to audit,Access,High
+Laptop paint chipping,Hardware,Low
+Where can I find social policy?,HR Support,Low
+My second monitor keeps going into sleep mode,Hardware,Medium
+I need to download my payslip for June 2025,HR Support,Low
+Where can I find the updated holiday calendar?,HR Support,Low
+I cannot SSH into the production server,Access,High
+Reset my password for the SAP portal,Access,High
+We need to order 5 ergonomic mouse pads,Purchase,Low
+My spacebar key is physically stuck,Hardware,Low
+Requesting a license for Adobe Premiere Pro,Purchase,Low
+How do I apply for bereavement leave?,HR Support,Low
+The printer on the 5th floor is out of paper,Hardware,Medium
+I need a new power adapter for my Dell XPS,Hardware,Medium
+Portal for tax proof submission is crashing,HR Support,High
+Please unlock my AD account,Access,High
+WiFi signal is weak in the corner office,Hardware,Medium
+I need a headset with a mute button,Purchase,Low
+Invoice #1002 has the wrong tax amount,Billing,Medium
+Client #505 wants to update their billing address,Billing,Low
+I cannot access the payroll dashboard,Access,High
+System says 'Invalid Credentials' on login,Access,High
+My webcam has a purple tint,Hardware,Medium
+I want to encash my privilege leaves,HR Support,Low
+Please buy a license for IntelliJ Ultimate,Purchase,Low
+Laptop shuts down when unplugged,Hardware,High
+Refund status for transaction #9981?,Billing,Medium
+Permission denied when accessing /var/log,Access,High
+I need my Form 16 Part B,HR Support,Low
+The QR scanner is not beeping,Hardware,Medium
+We need 3 standing desk converters,Purchase,Low
+Unrecognized charge on the corporate credit card,Billing,High
+Teams keeps crashing on startup,Access,High
+My monitor has a dead pixel cluster,Hardware,Low
+What is the policy for international travel?,HR Support,Low
+Urgent: Server room AC is leaking,Hardware,High
+I need write access to the S3 bucket,Access,Medium
+Payment gateway timeout for Order #551,Billing,High
+Requesting a new whiteboard marker set,Purchase,Low
+How do I update my salary account details?,HR Support,High
+VPN disconnects every hour,Access,High
+Docking station HDMI port is dead,Hardware,Medium
+Update the VAT number for invoice #100,Billing,Low
+Please order a magic trackpad,Purchase,Low
+I cannot view my variable pay history,HR Support,Medium
+Account locked due to 3 failed attempts,Access,High
+The projector bulb exploded,Hardware,High
+We need a subscription for Figma Professional,Purchase,Low
+Salary was short by 500 dollars,HR Support,High
+I need to reset my RSA soft token,Access,High
+The CPU fan is making a grinding noise,Hardware,Medium
+Quote needed for 10TB NAS storage,Purchase,Low
+Customer demands refund for service outage,Billing,Medium
+How do I claim broadband reimbursement?,HR Support,Low
+I lost my access badge on the bus,HR Support,Medium
+The water dispenser is empty,Hardware,Low
+Internet is down for the marketing team,Hardware,High
+I need sudo access on the test server,Access,Medium
+Grant me access to the private repo,Access,Medium
+Screen is flickering when brightness is low,Hardware,High
+We need to buy a license for Asana Business,Purchase,Low
+Where do I upload my rent receipts?,HR Support,Low
+Cannot map the Z: drive,Access,Medium
+The main database is unresponsive,Access,High
+Keyboard keys 'A' and 'S' are worn out,Hardware,Low
+Requesting a quote for 15 iPads,Purchase,Low
+Billing cycle change request for Client Z,Billing,Low
+I did not receive my relocation bonus,HR Support,High
+Email is not syncing on Android Work Profile,Access,Medium
+I need a replacement for my broken laptop bag,Hardware,Medium
+We need a new switch for the lab,Purchase,Medium
+AC in the server room is freezing,Hardware,Medium
+Forgot username for the benefits system,Access,Medium
+How many casual leaves do I have?,HR Support,Low
+My laptop gets very hot while charging,Hardware,High
+Please order 20 Ethernet cables,Purchase,Low
+404 error on the internal wiki page,Access,Medium
+Tax deduction is higher than calculated,HR Support,Medium
+Microphone volume is too low on Zoom,Hardware,Low
+We need to renew our SSL wildcard certificate,Purchase,High
+Cannot print from the guest WiFi,Access,Medium
+Payslip PDF is corrupted,HR Support,Low
+My external HDD is making clicking sounds,Hardware,High
+I need a 4K monitor for design work,Purchase,Low
+Software update failed with error 1603,Access,Medium
+Client was charged twice for the same invoice,Billing,High
+How do I add my newborn to insurance?,HR Support,Low
+The shredder bin is full,Hardware,Low
+I need a license for Microsoft Project,Purchase,Low
+Cannot connect to the office VPN from home,Access,High
+My chair gas lift is sinking,Hardware,Low
+Please update the billing contact email,Billing,Low
+I need access to the production logs folder,Access,Medium
+Laptop screen bezel is cracked,Hardware,Medium
+Where can I find the travel expense template?,HR Support,Low
+I forgot the password for the admin console,Access,High
+We need to buy 50 ballpoint pens,Purchase,Low
+The conference speakerphone is muffled,Hardware,Low
+Invoice #882 is 30 days overdue,Billing,Medium
+I cannot login to Salesforce Sandbox,Access,High
+My computer freezes when opening Chrome,Hardware,Medium
+Requesting a footrest under my desk,Purchase,Low
+Is there a casual dress code on Fridays?,HR Support,Low
+VPN client says 'Certificate Invalid',Access,High
+My laptop battery drains in 30 minutes,Hardware,High
+Update address on the next invoice #332,Billing,Low
+Please order a privacy screen filter 14 inch,Purchase,Low
+I cannot access the leave management system,Access,High
+System asks for admin rights to install font,Access,Medium
+My headset is only playing audio on left side,Hardware,Low
+We need a license for Tableau Creator,Purchase,Low
+Discrepancy in night shift allowance,HR Support,Medium
+I need to reset my voicemail PIN,Access,Low
+Fan noise is distracting during calls,Hardware,Low
+Quote for new firewall appliance,Purchase,Medium
+Customer #221 wants a partial credit,Billing,Medium
+How do I claim LTA for my family?,HR Support,Low
+I need a new lanyard clip,HR Support,Low
+The coffee machine is displaying error 5,Hardware,Low
+Internet is slow in the break room,Hardware,Low
+I need to install Python 3.12,Access,Low
+Revoke access for the ex-employee John Doe,Access,High
+Monitor is too dim even at max settings,Hardware,Low
+We need to buy a license for Monday.com,Purchase,Low
+Where do I submit medical bills for reimbursement?,HR Support,Low
+Cannot connect to the LDAP server,Access,High
+The backup server is offline,Access,High
+Spacebar is squeaking loudly,Hardware,Low
+Requesting a quote for a 3D printer filament,Purchase,Low
+Billing issue with vendor X Invoice #99,Billing,Medium
+I did not receive my on-call allowance,HR Support,Medium
+Email signature is not updating in Outlook,Access,Low
+I need a spare USB-C charger,Hardware,Low
+We need to purchase a 4K webcam for the boardroom,Purchase,Low
+The server room door lock is jammed,Hardware,High
+Forgot password for the wiki admin,Access,Medium
+How many privilege leaves can I encash?,HR Support,Low
+My desktop won't post on boot,Hardware,High
+Please order 10 USB-C to HDMI adapters,Purchase,Low
+502 Bad Gateway on the intranet portal,Access,Medium
+TDS deduction is incorrect for March,HR Support,Medium
+Webcam focus is broken on my laptop,Hardware,Low
+We need to renew the Office 365 E3 subscription,Purchase,High
+Cannot scan to email from printer 2,Access,Medium
+Payslip portal is showing white screen,HR Support,High
+My USB drive is write-protected,Hardware,Medium
+I need a vertical ergonomic mouse,Purchase,Low
+Application crashes on launch with error X,Access,Medium
+Client disputes the hourly rate charge,Billing,Medium
+How do I change my emergency contact number?,HR Support,Low
+The laminator is overheating and smoking,Hardware,High
+I need a license for Sketch App,Purchase,Low
+Cannot connect to the VPN from hotel wifi,Access,Medium
+My desk drawer key is missing,Hardware,Low
+Please update the PO number on invoice #551,Billing,Low
+I need access to the analytics dashboard,Access,Medium
+Laptop hinge is loose and wobbling,Hardware,Low
+Where can I find the employee handbook PDF?,HR Support,Low
+I forgot the root password for server 2,Access,High
+We need to buy 20 notepads,Purchase,Low
+The TV in the lobby has no signal,Hardware,Low
+Invoice #771 was sent to personal email,Billing,Medium
+I cannot login to Jira Cloud,Access,High
+My computer is slow to boot up,Hardware,Low
+Requesting a lumbar support cushion,Purchase,Low
+What are the core working hours?,HR Support,Low
+VPN authentication failed with timeout,Access,High
+My laptop battery is swelling and pushing the trackpad,Hardware,High
+Correction needed on invoice #554 date,Billing,Low
+Please order a laptop stand aluminum,Purchase,Low
+I cannot access the performance review tool,Access,Medium
+System keeps locking me out every 5 mins,Access,High
+My headset wire is frayed and exposed,Hardware,Low
+We need a license for JetBrains All Products Pack,Purchase,Low
+Bonus calculation seems wrong for Q4,HR Support,Medium
+I need to reset my biometrics data,Access,Medium
+Hard drive makes clicking sound constantly,Hardware,High
+Quote for cloud storage expansion 5TB,Purchase,Medium
+Customer #112 is asking for a discount code,Billing,Low
+How do I claim mobile bill reimbursement?,HR Support,Low
+I need a new parking sticker for my car,HR Support,Low
+The vending machine took my money,Hardware,Low
+Internet speed is below 1Mbps in lab,Hardware,High
+I need to install Node.js LTS,Access,Low
+Grant me access to the staging environment,Access,Medium
+Screen colors are inverted on my monitor,Hardware,Medium
+We need to buy a license for Trello Gold,Purchase,Low
+Where do I submit 80C investment proofs?,HR Support,Low
+Cannot access the marketing file server,Access,High
+The mail server is blacklisted by Spamhaus,Access,High
+Enter key is not registering press,Hardware,Medium
+Requesting a quote for a portable projector,Purchase,Low
+Billing currency needs to be changed to USD,Billing,Low
+I did not receive my variable pay for H2,HR Support,High
+Email is going to spam folder,Access,Medium
+I need a replacement for my broken mouse,Hardware,Low
+We need to purchase a UPS for the router,Purchase,Medium
+The fire alarm panel is beeping continuously,Hardware,High
+Forgot password for the time tracker,Access,Medium
+How many comp offs do I have valid?,HR Support,Low
+My laptop screen is black but power is on,Hardware,High
+Please order 20 sticky note pads,Purchase,Low
+403 Forbidden on the HR portal login,Access,High
+Professional tax is deducted twice in Jan,HR Support,Medium
+Speaker is crackling at high volume,Hardware,Low
+We need to renew the antivirus license for 50 users,Purchase,High
+Cannot print double-sided on Printer 1,Hardware,Low
+Payslip is blank for this month,HR Support,High
+My SSD is full need cleanup,Hardware,Medium
+I need a dual monitor arm mount,Purchase,Low
+Software license expired error on AutoCAD,Access,High
+Client claims they already paid invoice #33,Billing,High
+How do I update my marital status in records?,HR Support,Low
+The paper shredder is jammed again,Hardware,Low
+I need a license for CorelDraw Graphics Suite,Purchase,Low
+Cannot connect to the guest WiFi network,Access,Low
+My chair wheel is broken off,Hardware,Low
+Please split the invoice into two payments,Billing,Low
+I need access to the marketing folder,Access,Low
+Laptop trackpad is unresponsive to clicks,Hardware,Medium
+Where can I find the sexual harassment policy?,HR Support,Low
+I forgot the wifi password for guests,Access,Low
+We need to buy 100 whiteboard markers,Purchase,Low
+The digital signage is frozen on boot screen,Hardware,Low
+Invoice #990 is missing tax details,Billing,Medium
+I cannot login to Confluence page,Access,High
+My computer restarts automatically every hour,Hardware,High
+Requesting a back support mesh,Purchase,Low
+Is it a holiday on Friday?,HR Support,Low
+VPN connection dropped during call,Access,Medium
+My laptop runs very hot when compiling,Hardware,Medium
+Change the billing entity name for Client A,Billing,Low
+Please order a screen cleaning kit,Purchase,Low
+I cannot access the recruitment portal,Access,Medium
+System requires a restart loop issue,Hardware,High
+My headset is uncomfortable for long wear,Purchase,Low
+We need a license for LastPass Enterprise,Purchase,Low
+Salary slip shows wrong designation title,HR Support,Medium
+I need to reset my PIN for the printer,Access,Medium
+Fan is not spinning on my laptop,Hardware,High
+Quote for new biometric system installation,Purchase,Medium
+Customer #881 wants to cancel subscription immediately,Billing,High
+How do I claim fuel reimbursement?,HR Support,Low
+I need a new access card holder,HR Support,Low
+The microwave is sparking inside,Hardware,High
+Internet is unstable on the 3rd floor,Hardware,Medium
+I need to install VS Code extensions,Access,Low
+Grant me access to the client VPN,Access,Medium
+Screen is too bright and cannot adjust,Hardware,Low
+We need to buy a license for Spotify (Office),Purchase,Low
+Where do I submit HRA declaration form?,HR Support,Low
+Cannot access the shared printer on network,Access,Medium
+The DNS server is not resolving internal sites,Access,High
+Shift key is stuck down,Hardware,Low
+Requesting a quote for 5 jabra headsets,Purchase,Low
+Billing address zip code is wrong on invoice,Billing,Low
+I did not receive my referral bonus yet,HR Support,Medium
+Email delivery failed to external domain,Access,Medium
+I need a replacement for my stolen laptop,Hardware,High
+We need to purchase a heavy duty stapler,Purchase,Low
+The server room door is jammed shut,Hardware,High
+Forgot password for the expense portal,Access,Medium
+How many days of leave can I carry over?,HR Support,Low
+My laptop freezes on login screen,Hardware,High
+Please order 5 extension cords 5m,Purchase,Low
+500 Internal Server Error on the api gateway,Access,High
+PF deduction is missing from payslip,HR Support,Medium
+Audio jack is loose on the laptop,Hardware,Low
+We need to renew the domain registration,Purchase,High
+Cannot scan to folder smb error,Access,Medium
+Payslip amount does not match offer letter,HR Support,High
+My USB port is physically broken,Hardware,Medium
+I need a wireless charger for phone,Purchase,Low
+App crashes when saving files,Access,Medium
+Client requested a breakdown of costs,Billing,Low
+How do I add a nominee to PF account?,HR Support,Low
+The guillotine cutter is blunt,Hardware,Low
+I need a license for Premier Pro CC,Purchase,Low
+Cannot connect to the secured WiFi,Access,Medium
+My desk is wobbly and uneven,Hardware,Low
+Please consolidate these two invoices,Billing,Low
+I need access to the finance drive,Access,High
+Laptop screen has lines running through it,Hardware,Medium
+Where can I find the referral policy?,HR Support,Low
+I forgot the admin password for local machine,Access,High
+We need to buy 10 staplers,Purchase,Low
+The smart TV remote is missing,Hardware,Low
+Invoice #441 is duplicated in the system,Billing,High
+I cannot login to GitHub Enterprise,Access,High
+My computer is making a beeping noise on boot,Hardware,Medium
+Requesting a wrist rest for keyboard,Purchase,Low
+What are the rules for comp off expiry?,HR Support,Low
+VPN refuses connection error 619,Access,High
+My laptop battery is dead won't charge,Hardware,High
+Update the VAT number on invoice #77,Billing,Low
+Please order a webcam cover slider,Purchase,Low
+I cannot access the training portal,Access,Low
+System is infected with malware alert,Access,High
+My headset ear cushion is torn,Hardware,Low
+We need a license for Zoom Webinar 500,Purchase,Low
+Salary deduction without explanation in slip,HR Support,High
+I need to reset my key fob access,Access,Medium
+Fan is vibrating the whole desk,Hardware,Low
+Quote for office renovation painting,Purchase,High
+Customer #332 wants to upgrade plan to Pro,Billing,Low
+How do I claim relocation expenses?,HR Support,Low
+I need a new business card printed,HR Support,Low
+The toaster is broken in pantry,Hardware,Low
+Internet is slow for upload speed,Hardware,Medium
+I need to install MySQL Workbench,Access,Low
+Grant me access to the UAT environment,Access,Medium
+Screen ghosting issue on monitor 1,Hardware,Low
+We need to buy a license for Canva Pro,Purchase,Low
+Where do I submit investment declaration?,HR Support,Low
+Cannot access the backup drive Z,Access,High
+The proxy server is blocking google.com,Access,High
+Caps lock light is not working,Hardware,Low
+Requesting a quote for a NAS drive,Purchase,Low
+Billing contact email bounce back,Billing,Medium
+I did not receive my night shift allowance,HR Support,Medium
+Email keeps asking for password in Outlook,Access,Medium
+I need a replacement for my broken screen,Hardware,Medium
+We need to purchase a label printer,Purchase,Low
+The server room AC is making rattling noise,Hardware,Medium
+Forgot password for the travel portal,Access,Medium
+How many leaves do I have pro-rated?,HR Support,Low
+My laptop gives electric shocks on body,Hardware,High
+Please order 50 AA batteries,Purchase,Low
+401 Unauthorized on the gateway,Access,High
+Tax calculation error in payslip March,HR Support,Medium
+Bluetooth is not working on laptop,Hardware,Low
+We need to renew the cloud subscription,Purchase,High
+Cannot print in color on Printer 1,Hardware,Low
+Payslip is not generated yet for Jan,HR Support,Medium
+My external drive is clicking loudly,Hardware,High
+I need a laptop cooling pad,Purchase,Low
+Program refuses to open error 0xc000,Access,Low
+Client wants to pay via wire transfer info,Billing,Low
+How do I change my pension scheme?,HR Support,Low
+The binding machine is jammed,Hardware,Low
+I need a license for Cinema 4D,Purchase,Low
+Cannot connect to the VPN from hotel,Access,Medium
+My chair gas lift is broken,Hardware,Low
+Please correct the date on invoice #22,Billing,Low
+I need access to the legal documents folder,Access,High
+Laptop keyboard backlight is dead,Hardware,Low
+Where can I find the resignation policy?,HR Support,Low
+I forgot the server password for dev box,Access,High
+We need to buy 5 scissors,Purchase,Low
+The projector remote is not working,Hardware,Low
+Invoice #665 needs approval form,Billing,Medium
+I cannot login to Bitbucket,Access,High
+My computer is lagging severely,Hardware,Medium
+Requesting a foot pedal for transcription,Purchase,Low
+What is the notice period policy?,HR Support,Low
+VPN client update required message,Access,Medium
+My laptop charger is sparking,Hardware,High
+Remove the tax from invoice #88,Billing,Low
+Please order a microfiber cloth,Purchase,Low
+I cannot access the onboarding portal,Access,Medium
+System update stuck at 99 percent,Hardware,Medium
+My headset is too tight,Purchase,Low
+We need a license for Grammarly Business,Purchase,Low
+Salary credited to wrong account number,HR Support,High
+I need to reset my physical key,Access,High
+Fan is clean but still noisy,Hardware,Low
+Quote for new CCTV cameras,Purchase,Medium
+Customer #774 wants to downgrade plan,Billing,Low
+How do I claim certification cost?,HR Support,Low
+I need a new laptop bag,Purchase,Low
+The dishwasher is not draining,Hardware,Low
+Internet is down in the lobby area,Hardware,Medium
+I need to install Postman,Access,Low
+Grant me access to the sandbox,Access,Medium
+Screen burn-in detected on OLED,Hardware,Low
+We need to buy a license for Miro,Purchase,Low
+Where do I submit tax proofs?,HR Support,Low
+Cannot access the archive folder,Access,Medium
+The web server is down 503,Access,High
+Num lock key is broken,Hardware,Low
+Requesting a quote for a flatbed scanner,Purchase,Low
+Billing cycle alignment needed,Billing,Low
+I did not receive my performance bonus,HR Support,High
+Email font size is too small in outlook,Access,Low
+I need a replacement for my keyboard,Hardware,Low
+We need to purchase a whiteboard eraser,Purchase,Low
+The server rack door is open,Hardware,Low
+Forgot password for the procurement portal,Access,Medium
+How many sick days are paid?,HR Support,Low
+My laptop screen is flickering pink,Hardware,Medium
+Please order 10 cat6 network cables,Purchase,Low
+400 Bad Request on the API endpoint,Access,Medium
+Income tax mismatch in Form 16,HR Support,Medium
+Headphone jack is broken inside port,Hardware,Low
+We need to renew the maintenance contract,Purchase,High
+Cannot print A3 size paper,Hardware,Low
+Payslip has incorrect leave balance,HR Support,Low
+My SSD is slow read speed,Hardware,Low
+I need a document holder for desk,Purchase,Low
+App freezes when printing to PDF,Access,Medium
+Client #99 asked for invoice copy,Billing,Low
+How do I withdraw my PF balance?,HR Support,Low
+The hole puncher is broken,Hardware,Low
+I need a license for Final Cut Pro,Purchase,Low
+Cannot connect to the VPN from mobile,Access,Medium
+My chair armrest is loose,Hardware,Low
+Please send the receipt for invoice #11,Billing,Low
+I need access to the HR confidential folder,Access,High
+Laptop bezel is cracked near hinge,Hardware,Low
+Where can I find the code of conduct?,HR Support,Low
+I forgot the database password,Access,High
+We need to buy 20 glue sticks,Purchase,Low
+The mic on the podium is broken,Hardware,Medium
+Invoice #551 is lost in mail,Billing,Medium
+I cannot login to GitLab,Access,High
+My computer crashes when playing video,Hardware,Medium
+Requesting a lumbar support,Purchase,Low
+What is the policy for gift acceptance?,HR Support,Low
+VPN token expired error,Access,High
+My laptop battery is not charging plugged in,Hardware,High
+Add a PO number to invoice #77,Billing,Low
+Please order a keyboard cover,Purchase,Low
+I cannot access the exit interview link,Access,Medium
+System clock is wrong on server,Access,Low
+My headset is mutable but not unmutable,Hardware,Low
+We need a license for 1Password,Purchase,Low
+Salary hold due to attendance issue,HR Support,High
+I need to reset my smart card,Access,High
+Fan speed is uncontrollable,Hardware,Low
+Quote for new meeting table,Purchase,Medium
+Customer #552 is disputing charges,Billing,High
+How do I claim food allowance?,HR Support,Low
+I need a new security token,Access,High
+The fridge is not cooling in pantry,Hardware,Low
+Internet is intermittent on WiFi,Hardware,Medium
+I need to install Ruby on Rails,Access,Low
+Grant me access to the demo environment,Access,Medium
+Screen has a vertical line pixel,Hardware,Medium
+We need to buy a license for AirTable,Purchase,Low
+Where do I submit rent receipts?,HR Support,Low
+Cannot access the public folder,Access,Low
+The FTP server is slow transfer,Access,Medium
+Delete key is stuck on keyboard,Hardware,Low
+Requesting a quote for a paper shredder,Purchase,Low
+Billing period is wrong on invoice,Billing,Low
+I did not receive my conveyance allowance,HR Support,Medium
+Email attachments are blocked by policy,Access,Medium
+I need a replacement for my mouse pad,Purchase,Low
+We need to purchase a cable organizer,Purchase,Low
+The server room light is out,Hardware,Low
+Forgot password for the learning portal,Access,Medium
+How many maternity leaves are allowed?,HR Support,Low
+My laptop is making a grinding noise,Hardware,High
+Please order 5 power strips,Purchase,Low
+408 Request Timeout on server,Access,Medium
+Tax code is wrong on payslip,HR Support,Medium
+Speakers are buzzing noise,Hardware,Low
+We need to renew the office lease,Purchase,High
+Cannot print from Chrome browser,Access,Low
+Payslip shows zero earnings error,HR Support,High
+My flash drive is write protected,Hardware,Low
+I need a privacy filter 15 inch,Purchase,Low
+Program crashes on startup error,Access,Medium
+Client #12 wants to pay by check,Billing,Low
+How do I update my address in HR records?,HR Support,Low
+The stapler is jammed constantly,Hardware,Low
+I need a license for CorelDraw,Purchase,Low
+Cannot connect to the VPN via hotspot,Access,Medium
+My chair backrest is broken,Hardware,Low
+Please void invoice #44,Billing,Medium
+I need access to the strategy documents,Access,High
+Laptop rubber feet are missing,Hardware,Low
+Where can I find the safety manual?,HR Support,Low
+I forgot the wifi user guest,Access,Low
+We need to buy 100 paper clips,Purchase,Low
+The HDMI port on the TV is broken,Hardware,Medium
+Invoice #332 is underpaid by client,Billing,Medium
+I cannot login to Azure DevOps,Access,High
+My computer is infected with a virus,Access,High
+Requesting a desk lamp LED,Purchase,Low
+What is the policy for sabbaticals?,HR Support,Low
+VPN client is outdated update needed,Access,Medium
+My laptop shuts down at 20% battery,Hardware,Medium
+Change the date on invoice #99,Billing,Low
+Please order a screen wipe cloth,Purchase,Low
+I cannot access the survey tool,Access,Low
+System fan error on boot,Hardware,High
+My headset has static noise,Hardware,Low
+We need a license for Dropbox Business,Purchase,Low
+Salary delayed by 2 days why?,HR Support,Medium
+I need to reset my password manager master,Access,High
+Fan is making a clicking sound,Hardware,Low
+Quote for new reception desk,Purchase,Medium
+Customer #993 requests a pro-forma invoice,Billing,Low
+How do I claim telephone reimbursement?,HR Support,Low
+I need a new gym membership card,HR Support,Low
+The kettle is broken in kitchen,Hardware,Low
+Internet is slow in the lab area,Hardware,Medium
+I need to install Git Bash,Access,Low
+Grant me access to the production DB,Access,High
+Screen has a dead pixel center,Hardware,Low
+We need to buy a license for LucidChart,Purchase,Low
+Where do I submit tax saving documents?,HR Support,Low
+Cannot access the team folder,Access,Medium
+The mail server is down 500 error,Access,High
+Tab key is broken on keyboard,Hardware,Low
+Requesting a quote for a plotter printer,Purchase,Low
+Billing contact name is wrong,Billing,Low
+I did not receive my holiday pay,HR Support,High
+Email images are not loading,Access,Low
+I need a replacement for my laptop battery,Hardware,Medium
+We need to purchase a desk organizer,Purchase,Low
+The server room floor is wet,Hardware,High
+Forgot password for the insurance portal,Access,Medium
+How many days of paternity leave?,HR Support,Low
+My laptop screen is loose hinge,Hardware,Medium
+Please order 2 extension cables,Purchase,Low
+503 Service Unavailable on website,Access,High
+Tax deducted but not reflected in portal,HR Support,High
+Microphone is mute permanently,Hardware,Low
+We need to renew the gym membership,Purchase,Low
+Cannot print to PDF driver missing,Access,Low
+Payslip font is unreadable,HR Support,Low
+My external SSD is overheating,Hardware,Medium
+I need a laptop stand with fan,Purchase,Low
+App is slow to respond lag,Access,Low
+Client #55 has not paid invoice #12,Billing,High
+How do I change my bank for salary?,HR Support,Low
+The scissors are dull,Hardware,Low
+I need a license for Maya 3D,Purchase,Low
+Cannot connect to the VPN from airport,Access,Medium
+My chair is squeaking loudly,Hardware,Low
+Please resend invoice #66,Billing,Low
+I need access to the audit logs,Access,High
+Laptop paint is chipping off,Hardware,Low
+Where can I find the social media policy?,HR Support,Low
+I forgot the api key secret,Access,Medium
+We need to buy 50 rubber bands,Purchase,Low
+The projector is overheating shutdown,Hardware,Medium
+Invoice #221 has arithmetic error,Billing,Medium
+I cannot login to Trello,Access,Medium
+My computer has a black screen,Hardware,High
+Requesting a monitor riser,Purchase,Low
+What is the policy for moonlighting?,HR Support,Low
+VPN certificate expired renew,Access,High
+My laptop battery is bulging dangerous,Hardware,High
+Remove the discount from invoice #44,Billing,Low
+Please order a cleaning spray,Purchase,Low
+I cannot access the feedback form,Access,Low
+System keeps rebooting loop,Hardware,High
+My headset mic is loose,Hardware,Low
+We need a license for Evernote,Purchase,Low
+Salary includes unauthorized deduction,HR Support,High
+I need to reset my 2FA google auth,Access,High
+Fan is always on max speed,Hardware,Low
+Quote for new carpet installation,Purchase,Low
+Customer #662 wants to pay via PayPal,Billing,Low
+How do I claim book allowance?,HR Support,Low
+I need a new parking tag,HR Support,Low
+The fan in the pantry is broken,Hardware,Low
+Internet is slow for download,Hardware,Medium
+I need to install Java JDK,Access,Low
+Grant me access to the test server,Access,Medium
+Screen is tinted yellow,Hardware,Low
+We need to buy a license for Basecamp,Purchase,Low
+Where do I submit flexi benefit plan?,HR Support,Low
+Cannot access the archive drive,Access,Low
+The NTP server is unreachable,Access,Medium
+Esc key is not working,Hardware,Low
+Requesting a quote for a DSLR camera,Purchase,Low
+Billing address is incomplete,Billing,Low
+I did not receive my bonus letter,HR Support,Low
+Email is slow to send out,Access,Low
+I need a replacement for my headset,Hardware,Low
+We need to purchase a file cabinet,Purchase,Low
+The server room humidity is high,Hardware,High
+Forgot password for the payroll system,Access,High
+How many days of bereavement leave?,HR Support,Low
+My laptop is missing a screw,Hardware,Low
+Please order 10 USB drives 32GB,Purchase,Low
+504 Gateway Timeout error,Access,High
+Tax receipt is missing for Jan,HR Support,Medium
+Headphones are too quiet max vol,Hardware,Low
+We need to renew the internet plan,Purchase,High
+Cannot print envelope size,Hardware,Low
+Payslip needs a company stamp,HR Support,Low
+My SD card is stuck in slot,Hardware,Low
+I need a tablet stand,Purchase,Low
+App crashes on save action,Access,Medium
+Client #77 is asking for credit terms,Billing,Medium
+How do I change my tax regime?,HR Support,Low
+The tape dispenser is broken,Hardware,Low
+I need a license for Blender,Purchase,Low
+Cannot connect to the VPN from cafe,Access,Medium
+My chair fabric is torn,Hardware,Low
+Please issue a refund for invoice #88,Billing,Medium
+I need access to the board meeting minutes,Access,High
+Laptop connects to wifi but no internet,Access,Medium
+Where can I find the whistleblower policy?,HR Support,Low
+I forgot the master password for DB,Access,High
+We need to buy 20 sticky notes,Purchase,Low
+The TV has no signal HDMI,Hardware,Low
+Invoice #112 is fraudulent,Billing,High
+I cannot login to Slack desktop,Access,High
+My computer is very hot to touch,Hardware,High
+Requesting a gel mouse pad,Purchase,Low
+What is the policy for dating coworkers?,HR Support,Low
+VPN is slow latency high,Access,Medium
+My laptop battery charge fluctuates,Hardware,Medium
+Add a comment to invoice #33,Billing,Low
+Please order a dusting brush,Purchase,Low
+I cannot access the voting system,Access,Low
+System hangs on shutdown screen,Hardware,Low
+My headset is broken in half,Hardware,Medium
+We need a license for Notion Team,Purchase,Low
+Salary credited twice error,HR Support,High
+I need to reset my authenticator app,Access,High
+Fan is making a whistling noise,Hardware,Low
+Quote for new blinds for office,Purchase,Low
+Customer #442 wants to extend payment terms,Billing,Medium
+How do I claim newspaper allowance?,HR Support,Low
+I need a new locker key,HR Support,Low
+The stove is not working,Hardware,Low
+Internet is restricted firewall,Access,Medium
+I need to install C++ compiler,Access,Low
+Grant me access to the devops tools,Access,High
+Screen is scratched badly,Hardware,Low
+We need to buy a license for Typeform,Purchase,Low
+Where do I submit rent agreement copy?,HR Support,Low
+Cannot access the private folder,Access,High
+The DHCP server is full no IP,Access,High
+Home key is stuck on keyboard,Hardware,Low
+Requesting a quote for a drone,Purchase,Low
+Billing state is wrong on invoice,Billing,Low
+I did not receive my confirmation letter,HR Support,Medium
+Email is marking good mail as spam,Access,Medium
+I need a replacement for my docking station,Hardware,Medium
+We need to purchase a coat rack,Purchase,Low
+The server room is dirty dust,Hardware,Low
+Forgot password for the crm system,Access,High
+How many days of marriage leave?,HR Support,Low
+My laptop touchpad is erratic jumping,Hardware,Medium
+Please order 3 displayport cables,Purchase,Low
+Connection refused error 111,Access,High
+Tax statement is unclear,HR Support,Low
+Speakers are popping sound,Hardware,Low
+We need to renew the cleaning contract,Purchase,Low
+Cannot print label size,Hardware,Low
+Payslip is formatted wrong,HR Support,Low
+My memory card is unreadable,Hardware,Medium
+I need a phone stand for desk,Purchase,Low
+App is unresponsive frozen,Access,Medium
+Client #33 has a question about invoice #55,Billing,Low
+How do I update my mobile number?,HR Support,Low
+The glue gun is broken,Hardware,Low
+I need a license for Unity Pro,Purchase,Low
+Cannot connect to the VPN from train,Access,Medium
+My chair is sinking automatically,Hardware,Low
+Please cancel invoice #01,Billing,Medium
+I need access to the ceo folder,Access,High
+Laptop camera is blurry image,Hardware,Low
+Where can I find the ip policy?,HR Support,Low
+My mechanical keyboard has a chattering key,Hardware,Low
+I need to download my provident fund statement,HR Support,Low
+Where can I find the updated travel policy?,HR Support,Low
+I cannot SSH into the staging server,Access,High
+Reset my password for the Gitlab account,Access,High
+We need to order 5 vertical mice for the design team,Purchase,Low
+My trackpad gesture controls are not working,Hardware,Low
+Requesting a license for Adobe After Effects,Purchase,Low
+How do I apply for study leave?,HR Support,Low
+The 3D printer nozzle is clogged,Hardware,Medium
+I need a new power cord for my monitor,Hardware,Low
+Portal for tax investment submission is slow,HR Support,Medium
+Please unlock my VPN account,Access,High
+WiFi signal is dropping in the cafeteria,Hardware,Medium
+I need a headset with a retractable mic,Purchase,Low
+Invoice #2021 has an incorrect service date,Billing,Medium
+Client #303 wants to change the billing currency,Billing,Low
+I cannot access the payroll reports,Access,High
+System says 'Account Suspended' on login,Access,High
+My webcam keeps freezing during calls,Hardware,Medium
+I want to check my comp off balance,HR Support,Low
+Please buy a license for PyCharm Professional,Purchase,Low
+Laptop overheats when running Docker,Hardware,High
+Refund status for duplicate payment #8812?,Billing,Medium
+Permission denied when accessing /etc/hosts,Access,High
+I need my salary slip for the last 3 months,HR Support,Low
+The biometric scanner is not accepting my fingerprint,Hardware,Medium
+We need 3 height-adjustable desks,Purchase,Low
+Unrecognized charge on the corporate Amex,Billing,High
+Slack desktop app is unresponsive,Access,Medium
+My monitor has a vertical blue line,Hardware,Low
+What is the policy for client dinner expensing?,HR Support,Low
+Urgent: Server room UPS is beeping alarm,Hardware,High
+I need read access to the production bucket,Access,Medium
+Payment gateway error 500 for Order #221,Billing,High
+Requesting a new set of whiteboard markers,Purchase,Low
+How do I update my residential address?,HR Support,Low
+VPN connects but no internet access,Access,High
+Docking station ethernet port is dead,Hardware,Medium
+Update the PO number for invoice #101,Billing,Low
+Please order a bluetooth dongle,Purchase,Low
+I cannot view my performance appraisal,HR Support,Medium
+Account locked due to expiry,Access,High
+The projector color wheel is noisy,Hardware,Medium
+We need a subscription for Sketch Cloud,Purchase,Low
+Salary was credited without the bonus,HR Support,High
+I need to reset my YubiKey,Access,High
+The CPU fan is spinning at max speed constantly,Hardware,Medium
+Quote needed for 32GB RAM upgrade,Purchase,Low
+Customer demands refund for billing error,Billing,Medium
+How do I claim gym membership reimbursement?,HR Support,Low
+I lost my office keys,HR Support,Medium
+The water cooler is leaking on the floor,Hardware,High
+Internet is down for the finance team,Hardware,High
+I need admin access on the jira project,Access,Medium
+Grant me access to the private wiki space,Access,Medium
+Screen is flickering when on battery power,Hardware,High
+We need to buy a license for Monday.com Pro,Purchase,Low
+Where do I upload my medical certificates?,HR Support,Low
+Cannot map the network drive Y:,Access,Medium
+The main database is locked,Access,High
+Keyboard key 'Enter' is sticking,Hardware,Low
+Requesting a quote for 10 Android tablets,Purchase,Low
+Billing cycle change request for Client Alpha,Billing,Low
+I did not receive my shift allowance for Dec,HR Support,High
+Email is not syncing on iPhone,Access,Medium
+I need a replacement for my laptop sleeve,Hardware,Low
+We need a new router for the conference room,Purchase,Medium
+AC in the server room is dripping,Hardware,High
+Forgot username for the travel booking tool,Access,Medium
+How many emergency leaves do I have?,HR Support,Low
+My laptop shuts down randomly,Hardware,High
+Please order 50 Cat6 cables,Purchase,Low
+404 error on the HR portal homepage,Access,Medium
+Tax deduction is missing from payslip,HR Support,Medium
+Microphone is echoing on Teams,Hardware,Low
+We need to renew our domain name registration,Purchase,High
+Cannot print from the guest network,Access,Medium
+Payslip PDF password is incorrect,HR Support,Low
+My external SSD is not recognized by Mac,Hardware,Medium
+I need a 27 inch monitor for coding,Purchase,Low
+Software update failed with error 1618,Access,Medium
+Client was charged for shipping by mistake,Billing,High
+How do I add my spouse to the health plan?,HR Support,Low
+The shredder is overheating,Hardware,Low
+I need a license for Microsoft Visio Pro,Purchase,Low
+Cannot connect to the office VPN from hotel,Access,Medium
+My chair lumbar support is broken,Hardware,Low
+Please update the billing contact name,Billing,Low
+I need access to the audit logs folder,Access,High
+Laptop screen hinge is cracking,Hardware,Medium
+Where can I find the mileage reimbursement form?,HR Support,Low
+I forgot the password for the root user,Access,High
+We need to buy 100 blue pens,Purchase,Low
+The conference speakerphone is dead,Hardware,Medium
+Invoice #992 is 60 days overdue,Billing,Medium
+I cannot login to Salesforce Production,Access,High
+My computer freezes when opening Photoshop,Hardware,Medium
+Requesting a foot rest for under desk,Purchase,Low
+Is there a specific dress code for client visits?,HR Support,Low
+VPN client says 'Authentication Failed',Access,High
+My laptop battery drains in 1 hour,Hardware,High
+Update address on the next invoice #442,Billing,Low
+Please order a privacy screen for MacBook,Purchase,Low
+I cannot access the leave application tool,Access,High
+System asks for admin rights to install printer,Access,Medium
+My headset is playing mono audio only,Hardware,Low
+We need a license for Tableau Viewer,Purchase,Low
+Discrepancy in holiday pay,HR Support,Medium
+I need to reset my voicemail password,Access,Low
+Fan noise is too loud on the workstation,Hardware,Low
+Quote for new firewall license,Purchase,Medium
+Customer #331 wants a full refund,Billing,High
+How do I claim LTA for my parents?,HR Support,Low
+I need a new lanyard,HR Support,Low
+The coffee machine is out of beans,Hardware,Low
+Internet is slow in the meeting room B,Hardware,Medium
+I need to install Python 3.11,Access,Low
+Revoke access for the contractor,Access,High
+Monitor is too bright even at 0%,Hardware,Low
+We need to buy a license for Asana Premium,Purchase,Low
+Where do I submit dental bills?,HR Support,Low
+Cannot connect to the LDAP directory,Access,High
+The backup job failed,Access,High
+Spacebar is broken on keyboard,Hardware,Low
+Requesting a quote for a 3D scanner,Purchase,Low
+Billing issue with vendor Y Invoice #88,Billing,Medium
+I did not receive my on-call pay,HR Support,Medium
+Email signature is missing logo,Access,Low
+I need a spare laptop charger,Hardware,Low
+We need to purchase a 4K TV for the lobby,Purchase,Low
+The server room door is open,Hardware,High
+Forgot password for the wiki editor,Access,Medium
+How many earned leaves can I carry forward?,HR Support,Low
+My desktop won't turn on,Hardware,High
+Please order 10 USB-C to USB-A adapters,Purchase,Low
+502 Bad Gateway on the timesheet app,Access,Medium
+TDS deduction is incorrect for Feb,HR Support,Medium
+Webcam is showing black and white only,Hardware,Low
+We need to renew the Office 365 Business subscription,Purchase,High
+Cannot scan to network folder,Access,Medium
+Payslip portal is down for maintenance,HR Support,Low
+My USB drive is corrupted,Hardware,Medium
+I need a wireless ergonomic mouse,Purchase,Low
+Application crashes on startup error 0x0,Access,Medium
+Client disputes the service hours,Billing,Medium
+How do I change my emergency contact?,HR Support,Low
+The laminator is jamming,Hardware,Low
+I need a license for InVision,Purchase,Low
+Cannot connect to the VPN from mobile hotspot,Access,Medium
+My desk drawer is stuck,Hardware,Low
+Please update the PO number on invoice #661,Billing,Low
+I need access to the google analytics,Access,Medium
+Laptop rubber foot fell off,Hardware,Low
+Where can I find the employee handbook?,HR Support,Low
+I forgot the admin password for the server,Access,High
+We need to buy 20 legal pads,Purchase,Low
+The TV in the breakroom has no remote,Hardware,Low
+Invoice #881 was sent to wrong email,Billing,Medium
+I cannot login to Jira Service Desk,Access,High
+My computer is slow opening files,Hardware,Low
+Requesting a lumbar cushion,Purchase,Low
+What are the core support hours?,HR Support,Low
+VPN authentication timed out,Access,High
+My laptop battery is swelling,Hardware,High
+Correction needed on invoice #554 address,Billing,Low
+Please order a laptop stand,Purchase,Low
+I cannot access the performance review system,Access,Medium
+System keeps locking me out,Access,High
+My headset wire is tangled and broken,Hardware,Low
+We need a license for JetBrains DotUltimate,Purchase,Low
+Bonus calculation seems wrong for Q1,HR Support,Medium
+I need to reset my biometrics,Access,Medium
+Hard drive makes clicking sound,Hardware,High
+Quote for cloud storage expansion 10TB,Purchase,Medium
+Customer #112 is asking for a credit note,Billing,Low
+How do I claim mobile bill?,HR Support,Low
+I need a new parking sticker,HR Support,Low
+The vending machine is broken,Hardware,Low
+Internet speed is very slow today,Hardware,High
+I need to install Node.js 18,Access,Low
+Grant me access to the QA environment,Access,Medium
+Screen colors are washed out,Hardware,Medium
+We need to buy a license for Trello Standard,Purchase,Low
+Where do I submit 80C proofs?,HR Support,Low
+Cannot access the marketing drive,Access,High
+The mail server is down,Access,High
+Enter key is broken on keyboard,Hardware,Medium
+Requesting a quote for a portable screen,Purchase,Low
+Billing currency needs to be EUR,Billing,Low
+I did not receive my variable pay,HR Support,High
+Email is going to junk folder,Access,Medium
+I need a replacement for my mouse,Hardware,Low
+We need to purchase a UPS for the server,Purchase,Medium
+The fire alarm is chirping,Hardware,High
+Forgot password for the expense system,Access,Medium
+How many comp offs are valid?,HR Support,Low
+My laptop screen is black,Hardware,High
+Please order 20 post-it notes,Purchase,Low
+403 Forbidden on the HR portal,Access,High
+Professional tax is deducted wrongly,HR Support,Medium
+Speaker is blown out,Hardware,Low
+We need to renew the antivirus for 100 users,Purchase,High
+Cannot print double-sided,Hardware,Low
+Payslip is blank,HR Support,High
+My SSD is failing smart check,Hardware,High
+I need a dual monitor stand,Purchase,Low
+Software license expired on Maya,Access,High
+Client claims they paid invoice #33 already,Billing,High
+How do I update my marital status?,HR Support,Low
+The paper shredder is full,Hardware,Low
+I need a license for Corel Painter,Purchase,Low
+Cannot connect to the guest WiFi,Access,Low
+My chair wheel is stuck,Hardware,Low
+Please split the invoice,Billing,Low
+I need access to the marketing assets,Access,Low
+Laptop trackpad is jumping,Hardware,Medium
+Where can I find the harassment policy?,HR Support,Low
+I forgot the wifi password,Access,Low
+We need to buy 100 markers,Purchase,Low
+The digital signage is black,Hardware,Low
+Invoice #990 is missing VAT,Billing,Medium
+I cannot login to Confluence,Access,High
+My computer restarts randomly,Hardware,High
+Requesting a back support,Purchase,Low
+Is Friday a holiday?,HR Support,Low
+VPN connection dropped,Access,Medium
+My laptop overheats on zoom,Hardware,Medium
+Change the billing name for Client B,Billing,Low
+Please order a screen cleaner,Purchase,Low
+I cannot access the recruitment tool,Access,Medium
+System requires restart loop,Hardware,High
+My headset is tight on head,Purchase,Low
+We need a license for LastPass,Purchase,Low
+Salary slip shows wrong title,HR Support,Medium
+I need to reset my PIN,Access,Medium
+Fan is stopped working,Hardware,High
+Quote for new CCTV system,Purchase,Medium
+Customer #881 wants to cancel service,Billing,High
+How do I claim fuel bills?,HR Support,Low
+I need a new access card,HR Support,Low
+The microwave is not heating,Hardware,High
+Internet is unstable on wifi,Hardware,Medium
+I need to install VS Code,Access,Low
+Grant me access to the client VPN,Access,Medium
+Screen is too dim,Hardware,Low
+We need to buy a license for Spotify,Purchase,Low
+Where do I submit HRA proofs?,HR Support,Low
+Cannot access the shared printer,Access,Medium
+The DNS server is down,Access,High
+Shift key is broken,Hardware,Low
+Requesting a quote for 5 headsets,Purchase,Low
+Billing address zip code is wrong,Billing,Low
+I did not receive my referral bonus,HR Support,Medium
+Email delivery failure,Access,Medium
+I need a replacement for my laptop,Hardware,High
+We need to purchase a stapler,Purchase,Low
+The server room is hot,Hardware,High
+Forgot password for the travel portal,Access,Medium
+How many days of leave can I carry over?,HR Support,Low
+My laptop freezes on login,Hardware,High
+Please order 5 extension cords,Purchase,Low
+500 Internal Server Error,Access,High
+PF deduction is wrong,HR Support,Medium
+Audio jack is broken,Hardware,Low
+We need to renew the domain name,Purchase,High
+Cannot scan to folder,Access,Medium
+Payslip amount is wrong,HR Support,High
+My USB port is loose,Hardware,Medium
+I need a wireless charger,Purchase,Low
+App crashes on launch,Access,Medium
+Client requested a breakdown,Billing,Low
+How do I add a nominee?,HR Support,Low
+The paper cutter is dull,Hardware,Low
+I need a license for Premiere Pro,Purchase,Low
+Cannot connect to VPN from home,Access,Medium
+My desk is wobbling,Hardware,Low
+Please consolidate invoices,Billing,Low
+I need access to the finance folder,Access,High
+Laptop screen has lines,Hardware,Medium
+Where can I find the referral policy?,HR Support,Low
+I forgot the admin password,Access,High
+We need to buy 10 staplers,Purchase,Low
+The smart TV is not working,Hardware,Low
+Invoice #441 is missing,Billing,High
+I cannot login to GitHub,Access,High
+My computer beeps,Hardware,Medium
+Requesting a wrist rest,Purchase,Low
+What are the comp off rules?,HR Support,Low
+VPN refuses connection,Access,High
+My laptop battery is draining fast,Hardware,Medium
+Update the VAT number,Billing,Low
+Please order a webcam cover,Purchase,Low
+I cannot access the training site,Access,Low
+System has a virus,Access,High
+My headset ear pad is torn,Hardware,Low
+We need a license for Zoom Webinar,Purchase,Low
+Salary deduction unexplained,HR Support,High
+I need to reset my key fob,Access,Medium
+Fan is vibrating,Hardware,Low
+Quote for office painting,Purchase,High
+Customer #332 wants to upgrade,Billing,Low
+How do I claim relocation?,HR Support,Low
+I need a new business card,HR Support,Low
+The toaster is burnt,Hardware,Low
+Internet is slow for upload,Hardware,Medium
+I need to install MySQL,Access,Low
+Grant me access to UAT,Access,Medium
+Screen ghosting,Hardware,Low
+We need to buy a license for Canva,Purchase,Low
+Where do I submit investment declaration?,HR Support,Low
+Cannot access the backup,Access,High
+The proxy is blocking sites,Access,High
+Caps lock is stuck,Hardware,Low
+Requesting a quote for a NAS,Purchase,Low
+Billing contact email bounce,Billing,Medium
+I did not receive my night allowance,HR Support,Medium
+Email keeps asking for password,Access,Medium
+I need a replacement for my screen,Hardware,Medium
+We need to purchase a label maker,Purchase,Low
+The server room AC is noisy,Hardware,Medium
+Forgot password for the insurance portal,Access,Medium
+How many leaves do I get?,HR Support,Low
+My laptop shocks me,Hardware,High
+Please order 50 batteries,Purchase,Low
+401 Unauthorized,Access,High
+Tax calculation error,HR Support,Medium
+Bluetooth is broken,Hardware,Low
+We need to renew the cloud subscription,Purchase,High
+Cannot print color,Hardware,Low
+Payslip is not generated,HR Support,Medium
+My external drive is clicking,Hardware,High
+I need a cooling pad,Purchase,Low
+Program won't open,Access,Low
+Client wants to pay by check,Billing,Low
+How do I change my pension?,HR Support,Low
+The binding machine is broken,Hardware,Low
+I need a license for Cinema 4D,Purchase,Low
+Cannot connect to VPN from mobile,Access,Medium
+My chair lift is broken,Hardware,Low
+Please correct the date on invoice,Billing,Low
+I need access to legal docs,Access,High
+Laptop keyboard backlight is broken,Hardware,Low
+Where can I find the resignation policy?,HR Support,Low
+I forgot the server password,Access,High
+We need to buy 5 scissors,Purchase,Low
+The projector remote is lost,Hardware,Low
+Invoice #665 is wrong,Billing,Medium
+I cannot login to Bitbucket,Access,High
+My computer lags,Hardware,Medium
+Requesting a foot pedal,Purchase,Low
+What is the notice period?,HR Support,Low
+VPN client update needed,Access,Medium
+My laptop charger sparks,Hardware,High
+Remove tax from invoice,Billing,Low
+Please order a microfiber cloth,Purchase,Low
+I cannot access the onboarding,Access,Medium
+System update stuck,Hardware,Medium
+My headset is tight,Purchase,Low
+We need a license for Grammarly,Purchase,Low
+Salary credited to wrong bank,HR Support,High
+I need to reset my physical key,Access,High
+Fan is noisy,Hardware,Low
+Quote for new carpet,Purchase,Low
+Customer #774 wants to cancel,Billing,High
+How do I claim certification?,HR Support,Low
+I need a new bag,Purchase,Low
+The dishwasher is full,Hardware,Low
+Internet is down in lobby,Hardware,Medium
+I need to install Postman,Access,Low
+Grant me access to sandbox,Access,Medium
+Screen burn in,Hardware,Low
+We need to buy a license for Miro,Purchase,Low
+Where do I submit tax proofs?,HR Support,Low
+Cannot access archive,Access,Medium
+The web server is down,Access,High
+Num lock is broken,Hardware,Low
+Requesting a quote for a scanner,Purchase,Low
+Billing cycle alignment,Billing,Low
+I did not receive my bonus,HR Support,High
+Email font is small,Access,Low
+I need a replacement keyboard,Hardware,Low
+We need to purchase an eraser,Purchase,Low
+The server rack is open,Hardware,Low
+Forgot password for procurement,Access,Medium
+How many sick days are paid?,HR Support,Low
+My laptop screen flickers,Hardware,Medium
+Please order 10 network cables,Purchase,Low
+400 Bad Request,Access,Medium
+Income tax mismatch,HR Support,Medium
+Headphone jack is loose,Hardware,Low
+We need to renew maintenance,Purchase,High
+Cannot print A3,Hardware,Low
+Payslip leave balance wrong,HR Support,Low
+My SSD is slow,Hardware,Low
+I need a document holder,Purchase,Low
+App freezes on print,Access,Medium
+Client #99 asked for invoice,Billing,Low
+How do I withdraw PF?,HR Support,Low
+The hole punch is broken,Hardware,Low
+I need a license for Final Cut,Purchase,Low
+Cannot connect to VPN from cafe,Access,Medium
+My chair is torn,Hardware,Low
+Please refund invoice #88,Billing,Medium
+I need access to board minutes,Access,High
+Laptop has no internet,Access,Medium
+Where can I find the whistleblower policy?,HR Support,Low
+I forgot the master password,Access,High
+We need to buy 20 sticky notes,Purchase,Low
+The TV has no signal,Hardware,Low
+Invoice #112 is fraud,Billing,High
+I cannot login to Slack,Access,High
+My computer is hot,Hardware,High
+Requesting a gel pad,Purchase,Low
+What is the dating policy?,HR Support,Low
+VPN is slow,Access,Medium
+My laptop battery fluctuates,Hardware,Medium
+Add comment to invoice,Billing,Low
+Please order a duster,Purchase,Low
+I cannot access voting,Access,Low
+System hangs on shutdown,Hardware,Low
+My headset is broken,Hardware,Medium
+We need a license for Notion,Purchase,Low
+Salary credited twice,HR Support,High
+I need to reset authenticator,Access,High
+Fan whistles,Hardware,Low
+Quote for blinds,Purchase,Low
+Customer #442 extend payment,Billing,Medium
+How do I claim newspaper?,HR Support,Low
+I need a new locker key,HR Support,Low
+The stove is broken,Hardware,Low
+Internet restricted,Access,Medium
+I need to install C++,Access,Low
+Grant me access to devops,Access,High
+Screen scratched,Hardware,Low
+We need to buy a license for Typeform,Purchase,Low
+Where do I submit rent agreement?,HR Support,Low
+Cannot access private folder,Access,High
+The DHCP server is full,Access,High
+Home key stuck,Hardware,Low
+Requesting a quote for drone,Purchase,Low
+Billing state wrong,Billing,Low
+I did not receive confirmation,HR Support,Medium
+Email spam filter too strong,Access,Medium
+I need a replacement dock,Hardware,Medium
+We need to purchase a coat rack,Purchase,Low
+The server room is dirty,Hardware,Low
+Forgot password for crm,Access,High
+How many marriage leaves?,HR Support,Low
+My laptop touchpad crazy,Hardware,Medium
+Please order 3 cables,Purchase,Low
+Connection refused,Access,High
+Tax statement unclear,HR Support,Low
+Speakers popping,Hardware,Low
+We need to renew cleaning,Purchase,Low
+Cannot print label,Hardware,Low
+Payslip format wrong,HR Support,Low
+My memory card error,Hardware,Medium
+I need a phone stand,Purchase,Low
+App unresponsive,Access,Medium
+Client #33 question invoice,Billing,Low
+How do I update mobile?,HR Support,Low
+The glue gun broken,Hardware,Low
+I need a license for Unity,Purchase,Low
+Cannot connect to VPN from train,Access,Medium
+My chair sinking,Hardware,Low
+Please cancel invoice,Billing,Medium
+I need access to ceo folder,Access,High
+Laptop camera blurry,Hardware,Low
+Where can I find ip policy?,HR Support,Low
+I forgot api key,Access,Medium
+We need to buy 50 bands,Purchase,Low
+The projector hot,Hardware,Medium
+Invoice #221 error,Billing,Medium
+I cannot login to Trello,Access,Medium
+My computer black screen,Hardware,High
+Requesting monitor riser,Purchase,Low
+What is moonlighting policy?,HR Support,Low
+VPN token expired,Access,High
+My laptop battery bulging,Hardware,High
+Remove discount invoice,Billing,Low
+Please order cleaning spray,Purchase,Low
+I cannot access feedback,Access,Low
+System reboots loop,Hardware,High
+My headset mic loose,Hardware,Low
+We need a license for Evernote,Purchase,Low
+Salary unauthorized deduction,HR Support,High
+I need to reset 2FA,Access,High
+Fan max speed,Hardware,Low
+Quote for new table,Purchase,Medium
+Customer #552 dispute,Billing,High
+How do I claim food?,HR Support,Low
+I need a new token,Access,High
+The fridge broken,Hardware,Low
+Internet intermittent,Hardware,Medium
+I need to install Ruby,Access,Low
+Grant me access to demo,Access,Medium
+Screen vertical line,Hardware,Medium
+We need to buy a license for AirTable,Purchase,Low
+Where do I submit receipts?,HR Support,Low
+Cannot access public folder,Access,Low
+The FTP server slow,Access,Medium
+Delete key stuck,Hardware,Low
+Requesting a quote for shredder,Purchase,Low
+Billing period wrong,Billing,Low
+I did not receive conveyance,HR Support,Medium
+Email attachment blocked,Access,Medium
+I need a replacement mouse pad,Purchase,Low
+We need to purchase organizer,Purchase,Low
+The server room light out,Hardware,Low
+Forgot password for learning,Access,Medium
+How many maternity leaves?,HR Support,Low
+My laptop grinding,Hardware,High
+Please order 5 strips,Purchase,Low
+408 Timeout,Access,Medium
+Tax code wrong,HR Support,Medium
+Speakers buzzing,Hardware,Low
+We need to renew lease,Purchase,High
+Cannot print Chrome,Access,Low
+Payslip zero earnings,HR Support,High
+My flash drive read only,Hardware,Low
+I need privacy filter,Purchase,Low
+Program crash startup,Access,Medium
+Client #12 check payment,Billing,Low
+How do I update address?,HR Support,Low
+The stapler jammed,Hardware,Low
+I need a license for Corel,Purchase,Low
+Cannot connect to VPN hotspot,Access,Medium
+My chair back broken,Hardware,Low
+Please void invoice,Billing,Medium
+I need access to strategy,Access,High
+Laptop rubber feet missing,Hardware,Low
+Where can I find safety manual?,HR Support,Low
+I forgot wifi user,Access,Low
+We need to buy 100 clips,Purchase,Low
+The HDMI port broken,Hardware,Medium
+Invoice #332 underpaid,Billing,Medium
+I cannot login to Azure,Access,High
+My computer virus,Access,High
+Requesting desk lamp,Purchase,Low
+What is sabbatical policy?,HR Support,Low
+VPN outdated,Access,Medium
+My laptop shuts down 20%,Hardware,Medium
+Change date invoice,Billing,Low
+Please order screen wipe,Purchase,Low
+I cannot access survey,Access,Low
+System fan error,Hardware,High
+My headset static,Hardware,Low
+We need a license for Dropbox,Purchase,Low
+Salary delayed,HR Support,Medium
+I need to reset password manager,Access,High
+Fan clicking,Hardware,Low
+Quote for reception,Purchase,Medium
+Customer #993 proforma,Billing,Low
+How do I claim telephone?,HR Support,Low
+I need a new gym card,HR Support,Low
+The kettle broken,Hardware,Low
+Internet slow lab,Hardware,Medium
+I need to install Git,Access,Low
+Grant me access to production,Access,High
+Screen dead pixel,Hardware,Low
+We need to buy a license for LucidChart,Purchase,Low
+Where do I submit tax saving?,HR Support,Low
+Cannot access team folder,Access,Medium
+The mail server down,Access,High
+Tab key broken,Hardware,Low
+Requesting a quote for plotter,Purchase,Low
+Billing contact name wrong,Billing,Low
+I did not receive holiday pay,HR Support,High
+Email images not loading,Access,Low
+I need a replacement battery,Hardware,Medium
+We need to purchase desk organizer,Purchase,Low
+The server room wet,Hardware,High
+Forgot password for insurance,Access,Medium
+How many paternity leaves?,HR Support,Low
+My laptop screen loose,Hardware,Medium
+Please order 2 cables,Purchase,Low
+503 Service Unavailable,Access,High
+Tax deducted not reflected,HR Support,High
+Microphone mute,Hardware,Low
+We need to renew gym,Purchase,Low
+Cannot print PDF,Access,Low
+Payslip unreadable,HR Support,Low
+My external SSD hot,Hardware,Medium
+I need a stand fan,Purchase,Low
+App slow,Access,Low
+Client #55 not paid,Billing,High
+How do I change bank?,HR Support,Low
+The scissors dull,Hardware,Low
+I need a license for Maya,Purchase,Low
+Cannot connect to VPN airport,Access,Medium
+My chair squeaking,Hardware,Low
+Please resend invoice,Billing,Low
+I need access to audit,Access,High
+Laptop paint chipping,Hardware,Low
+Where can I find social policy?,HR Support,Low
+My NumPad 5 key is not registering,Hardware,Low
+I need a letter for my visa application,HR Support,Medium
+Where is the policy on intellectual property?,HR Support,Low
+I cannot push code to the master branch,Access,High
+Reset my password for the cloud console,Access,High
+We need to order 5 privacy filters for 14-inch screens,Purchase,Low
+My mouse scroll is jumping up and down,Hardware,Low
+Requesting a license for Camtasia Studio,Purchase,Low
+How do I apply for adoption leave?,HR Support,Low
+The 3D printer bed is not heating up,Hardware,Medium
+I need a new HDMI to VGA adapter,Hardware,Low
+Portal for provident fund transfer is down,HR Support,High
+Please unlock my SAP ID,Access,High
+WiFi has high latency in the corner office,Hardware,Medium
+I need a headset with a USB-C connector,Purchase,Low
+Invoice #3091 has a calculation error,Billing,Medium
+Client #404 wants to split the bill,Billing,Low
+I cannot access the yearly tax reports,Access,High
+System says 'Session Expired' immediately after login,Access,High
+My webcam shutter is stuck closed,Hardware,Medium
+I want to check my optional holiday list,HR Support,Low
+Please buy a license for WebStorm,Purchase,Low
+Laptop screen goes black when tilted,Hardware,High
+Refund status for accidental subscription?,Billing,Medium
+Permission denied when writing to /var/www,Access,High
+I need my reliving letter from previous employment,HR Support,Low
+The fingerprint reader is scratching my finger,Hardware,Medium
+We need 3 monitor risers with drawers,Purchase,Low
+Unrecognized transaction on the company card,Billing,High
+Zoom keeps freezing on screen share,Access,High
+My monitor has a red vertical line,Hardware,Low
+What is the policy for team lunch expenses?,HR Support,Low
+Urgent: Server room smoke detector is chirping,Hardware,High
+I need delete access to the archive bucket,Access,Medium
+Payment gateway rejected card for Order #991,Billing,High
+Requesting a new set of highlighters,Purchase,Low
+How do I update my permanent address?,HR Support,Low
+VPN connects but drops packets,Access,High
+Docking station is making a high pitched noise,Hardware,Medium
+Update the shipping address for invoice #202,Billing,Low
+Please order a bluetooth keyboard for tablet,Purchase,Low
+I cannot view my team's leave calendar,HR Support,Medium
+Account locked due to dormant status,Access,High
+The projector image is shaking,Hardware,Medium
+We need a subscription for Figma Organization,Purchase,Low
+Salary was credited to the old bank account,HR Support,High
+I need to reset my OTP generator,Access,High
+The CPU fan is surging up and down,Hardware,Medium
+Quote needed for a GPU server,Purchase,Low
+Customer demands refund for downtime,Billing,Medium
+How do I claim tuition reimbursement?,HR Support,Low
+I lost my cabin keys,HR Support,Medium
+The water cooler is dispensing hot water only,Hardware,Low
+Internet is down for the design studio,Hardware,High
+I need admin access to the Jira board,Access,Medium
+Grant me access to the confidential wiki,Access,Medium
+Screen is flickering white lines,Hardware,High
+We need to buy a license for Monday.com Enterprise,Purchase,Low
+Where do I upload my vaccination cert?,HR Support,Low
+Cannot map the network drive S:,Access,Medium
+The main database is in recovery mode,Access,High
+Keyboard key 'Shift' is sticky,Hardware,Low
+Requesting a quote for 10 drawing tablets,Purchase,Low
+Billing cycle change request for Client Omega,Billing,Low
+I did not receive my overtime payout,HR Support,High
+Email is not syncing on iPad,Access,Medium
+I need a replacement for my laptop hinge covers,Hardware,Low
+We need a new switch for the server rack,Purchase,Medium
+AC in the server room is freezing up,Hardware,High
+Forgot username for the expense tool,Access,Medium
+How many unpaid leaves can I take?,HR Support,Low
+My laptop shuts down when I move it,Hardware,High
+Please order 50 RJ45 connectors,Purchase,Low
+404 error on the intranet home,Access,Medium
+Tax deduction is missing from March payslip,HR Support,Medium
+Microphone is robotic on Teams,Hardware,Low
+We need to renew our SSL certificate for the blog,Purchase,High
+Cannot print from the mobile app,Access,Medium
+Payslip PDF is blank,HR Support,Low
+My external SSD is running very hot,Hardware,Medium
+I need a 34 inch ultrawide monitor,Purchase,Low
+Software update failed with error 0x800,Access,Medium
+Client was charged for a free trial,Billing,High
+How do I add my parents to the health plan?,HR Support,Low
+The shredder motor is burnt,Hardware,Low
+I need a license for Microsoft Project Standard,Purchase,Low
+Cannot connect to the office VPN from linux,Access,Medium
+My chair headrest is missing,Hardware,Low
+Please update the billing contact phone,Billing,Low
+I need access to the GDPR logs,Access,High
+Laptop screen is peeling,Hardware,Medium
+Where can I find the relocation policy?,HR Support,Low
+I forgot the password for the sudo user,Access,High
+We need to buy 100 red pens,Purchase,Low
+The conference mic is picking up static,Hardware,Medium
+Invoice #992 is 90 days overdue,Billing,Medium
+I cannot login to Salesforce Test,Access,High
+My computer freezes when opening Illustrator,Hardware,Medium
+Requesting a ergonomic foot rest,Purchase,Low
+Is there a dress code for video calls?,HR Support,Low
+VPN client says 'Gateway Unreachable',Access,High
+My laptop battery drains in 45 minutes,Hardware,High
+Update address on the next invoice #551,Billing,Low
+Please order a privacy screen for Dell,Purchase,Low
+I cannot access the travel booking system,Access,High
+System asks for admin rights to update drivers,Access,Medium
+My headset is playing audio in reverse,Hardware,Low
+We need a license for Tableau Explorer,Purchase,Low
+Discrepancy in weekend allowance,HR Support,Medium
+I need to reset my desk phone PIN,Access,Low
+Fan noise is rattling,Hardware,Low
+Quote for new load balancer,Purchase,Medium
+Customer #331 wants a partial refund,Billing,High
+How do I claim LTA for my spouse?,HR Support,Low
+I need a new badge holder,HR Support,Low
+The coffee machine is leaking water,Hardware,Low
+Internet is slow in the conference room A,Hardware,Medium
+I need to install Python 3.10,Access,Low
+Revoke access for the intern,Access,High
+Monitor is too dark even at 100%,Hardware,Low
+We need to buy a license for Asana Enterprise,Purchase,Low
+Where do I submit vision care bills?,HR Support,Low
+Cannot connect to the Active Directory,Access,High
+The backup tape is stuck,Access,High
+Spacebar is loose on keyboard,Hardware,Low
+Requesting a quote for a barcode scanner,Purchase,Low
+Billing issue with vendor Z Invoice #77,Billing,Medium
+I did not receive my standby pay,HR Support,Medium
+Email signature is missing title,Access,Low
+I need a spare USB-C cable,Hardware,Low
+We need to purchase a 4K monitor for the lobby,Purchase,Low
+The server room door is creating an alarm,Hardware,High
+Forgot password for the wiki admin,Access,Medium
+How many sick leaves can I carry forward?,HR Support,Low
+My desktop won't POST,Hardware,High
+Please order 10 DisplayPort cables,Purchase,Low
+502 Bad Gateway on the leave portal,Access,Medium
+TDS deduction is incorrect for April,HR Support,Medium
+Webcam is showing green screen,Hardware,Low
+We need to renew the Office 365 E5 subscription,Purchase,High
+Cannot scan to email from printer 3,Access,Medium
+Payslip portal is timing out,HR Support,Low
+My USB drive is not mounting,Hardware,Medium
+I need a trackball mouse,Purchase,Low
+Application crashes on startup error 0x1,Access,Medium
+Client disputes the travel charges,Billing,Medium
+How do I change my emergency contact address?,HR Support,Low
+The laminator smells like burning,Hardware,High
+I need a license for Zeplin,Purchase,Low
+Cannot connect to the VPN from public wifi,Access,Medium
+My desk leg is bent,Hardware,Low
+Please update the PO number on invoice #771,Billing,Low
+I need access to the data warehouse,Access,Medium
+Laptop rubber foot is missing,Hardware,Low
+Where can I find the new employee guide?,HR Support,Low
+I forgot the admin password for the mac,Access,High
+We need to buy 20 legal pads yellow,Purchase,Low
+The TV in the breakroom is flickering,Hardware,Low
+Invoice #881 was sent to the old address,Billing,Medium
+I cannot login to Jira Mobile,Access,High
+My computer is slow saving files,Hardware,Low
+Requesting a lumbar support mesh,Purchase,Low
+What are the IT support hours?,HR Support,Low
+VPN authentication failed token invalid,Access,High
+My laptop battery is not holding charge,Hardware,High
+Correction needed on invoice #554 amount,Billing,Low
+Please order a laptop riser,Purchase,Low
+I cannot access the goal setting tool,Access,Medium
+System keeps logging me out,Access,High
+My headset wire is chewed,Hardware,Low
+We need a license for JetBrains PyCharm,Purchase,Low
+Bonus calculation seems wrong for H1,HR Support,Medium
+I need to reset my iris scan,Access,Medium
+Hard drive makes grinding sound,Hardware,High
+Quote for cloud storage reduction,Purchase,Medium
+Customer #112 is asking for a refund receipt,Billing,Low
+How do I claim internet bill?,HR Support,Low
+I need a new parking remote,HR Support,Low
+The vending machine is stuck,Hardware,Low
+Internet speed is fluctuating,Hardware,High
+I need to install Node.js 16,Access,Low
+Grant me access to the staging DB,Access,Medium
+Screen colors are too warm,Hardware,Medium
+We need to buy a license for Trello Gold,Purchase,Low
+Where do I submit 80D proofs?,HR Support,Low
+Cannot access the design drive,Access,High
+The mail server is slow,Access,High
+Enter key is double typing,Hardware,Medium
+Requesting a quote for a portable monitor,Purchase,Low
+Billing currency needs to be GBP,Billing,Low
+I did not receive my incentive pay,HR Support,High
+Email is going to clutter folder,Access,Medium
+I need a replacement for my trackpad,Hardware,Low
+We need to purchase a UPS for the switch,Purchase,Medium
+The fire alarm is flashing,Hardware,High
+Forgot password for the timesheet,Access,Medium
+How many comp offs are expiring?,HR Support,Low
+My laptop screen is dim,Hardware,High
+Please order 20 binder clips,Purchase,Low
+403 Forbidden on the payroll portal,Access,High
+Professional tax is missing,HR Support,Medium
+Speaker is muted stuck,Hardware,Low
+We need to renew the antivirus for server,Purchase,High
+Cannot print legal size,Hardware,Low
+Payslip is missing details,HR Support,High
+My SSD is failing read check,Hardware,High
+I need a dual monitor arm,Purchase,Low
+Software license expired on Adobe,Access,High
+Client claims they paid invoice #44 already,Billing,High
+How do I update my single status?,HR Support,Low
+The paper shredder is jammed with plastic,Hardware,Low
+I need a license for Corel VideoStudio,Purchase,Low
+Cannot connect to the guest WiFi password wrong,Access,Low
+My chair wheel is loose,Hardware,Low
+Please split the invoice by project,Billing,Low
+I need access to the brand assets,Access,Low
+Laptop trackpad is cracked,Hardware,Medium
+Where can I find the bullying policy?,HR Support,Low
+I forgot the wifi user guest,Access,Low
+We need to buy 100 green markers,Purchase,Low
+The digital signage is off,Hardware,Low
+Invoice #990 is missing GST,Billing,Medium
+I cannot login to Confluence Cloud,Access,High
+My computer restarts during update,Hardware,High
+Requesting a back rest,Purchase,Low
+Is Monday a holiday?,HR Support,Low
+VPN connection unstable,Access,Medium
+My laptop overheats on teams,Hardware,Medium
+Change the billing name for Client C,Billing,Low
+Please order a screen wipe,Purchase,Low
+I cannot access the onboarding tool,Access,Medium
+System requires boot disk,Hardware,High
+My headset is loose on head,Purchase,Low
+We need a license for 1Password Teams,Purchase,Low
+Salary slip shows wrong grade,HR Support,Medium
+I need to reset my PIN for door,Access,Medium
+Fan is stopped spinning,Hardware,High
+Quote for new access control,Purchase,Medium
+Customer #881 wants to pause service,Billing,High
+How do I claim taxi bills?,HR Support,Low
+I need a new access badge,HR Support,Low
+The microwave is making noise,Hardware,High
+Internet is unstable on lan,Hardware,Medium
+I need to install VS Code Insiders,Access,Low
+Grant me access to the partner VPN,Access,Medium
+Screen is too yellow,Hardware,Low
+We need to buy a license for Apple Music,Purchase,Low
+Where do I submit rent receipts?,HR Support,Low
+Cannot access the shared scanner,Access,Medium
+The DNS server is slow,Access,High
+Shift key is missing,Hardware,Low
+Requesting a quote for 10 headsets,Purchase,Low
+Billing address city is wrong,Billing,Low
+I did not receive my joining kit,HR Support,Medium
+Email delivery delayed,Access,Medium
+I need a replacement for my charger,Hardware,High
+We need to purchase a heavy stapler,Purchase,Low
+The server room is cold,Hardware,High
+Forgot password for the travel site,Access,Medium
+How many days of leave is unpaid?,HR Support,Low
+My laptop freezes on boot,Hardware,High
+Please order 5 surge protectors,Purchase,Low
+500 Internal Server Error api,Access,High
+PF deduction is high,HR Support,Medium
+Audio jack is static,Hardware,Low
+We need to renew the domain hosting,Purchase,High
+Cannot scan to usb,Access,Medium
+Payslip amount is zero,HR Support,High
+My USB port is tight,Hardware,Medium
+I need a qi charger,Purchase,Low
+App crashes on close,Access,Medium
+Client requested a summary,Billing,Low
+How do I add a beneficiary?,HR Support,Low
+The paper cutter is broken,Hardware,Low
+I need a license for DaVinci Resolve,Purchase,Low
+Cannot connect to VPN from home wifi,Access,Medium
+My desk is too low,Hardware,Low
+Please consolidate billing,Billing,Low
+I need access to the tax folder,Access,High
+Laptop screen has spots,Hardware,Medium
+Where can I find the referral bonus policy?,HR Support,Low
+I forgot the admin user,Access,High
+We need to buy 10 scissors,Purchase,Low
+The smart TV is broken,Hardware,Low
+Invoice #441 is lost,Billing,High
+I cannot login to GitHub Actions,Access,High
+My computer hums,Hardware,Medium
+Requesting a wrist pad,Purchase,Low
+What are the comp off limits?,HR Support,Low
+VPN refuses handshake,Access,High
+My laptop battery is draining 100 to 0,Hardware,Medium
+Update the VAT details,Billing,Low
+Please order a webcam shutter,Purchase,Low
+I cannot access the learning site,Access,Low
+System has a trojan,Access,High
+My headset ear cup is loose,Hardware,Low
+We need a license for Zoom Rooms,Purchase,Low
+Salary deduction for leave,HR Support,High
+I need to reset my key card,Access,Medium
+Fan is grinding,Hardware,Low
+Quote for office chairs,Purchase,High
+Customer #332 wants to change plan,Billing,Low
+How do I claim moving costs?,HR Support,Low
+I need a new business card holder,HR Support,Low
+The toaster is not popping,Hardware,Low
+Internet is slow for video,Hardware,Medium
+I need to install MySQL Client,Access,Low
+Grant me access to Prod,Access,Medium
+Screen burn,Hardware,Low
+We need to buy a license for Figma,Purchase,Low
+Where do I submit investment proofs?,HR Support,Low
+Cannot access the backup server,Access,High
+The proxy is blocking github,Access,High
+Caps lock is broken,Hardware,Low
+Requesting a quote for a NAS drive,Purchase,Low
+Billing contact phone bounce,Billing,Medium
+I did not receive my shift pay,HR Support,Medium
+Email keeps asking for creds,Access,Medium
+I need a replacement for my monitor,Hardware,Medium
+We need to purchase a label tape,Purchase,Low
+The server room AC is leaking,Hardware,Medium
+Forgot password for the health portal,Access,Medium
+How many leaves do I get per year?,HR Support,Low
+My laptop shocks me on touch,Hardware,High
+Please order 50 AAA batteries,Purchase,Low
+401 Unauthorized api,Access,High
+Tax calculation wrong,HR Support,Medium
+Bluetooth is lagging,Hardware,Low
+We need to renew the azure sub,Purchase,High
+Cannot print b&w,Hardware,Low
+Payslip is not available,HR Support,Medium
+My external drive is dead,Hardware,High
+I need a cooling fan,Purchase,Low
+Program won't start,Access,Low
+Client wants to pay by card,Billing,Low
+How do I change my vpf?,HR Support,Low
+The binding machine is jammed,Hardware,Low
+I need a license for 3ds Max,Purchase,Low
+Cannot connect to VPN from phone,Access,Medium
+My chair lift is sinking,Hardware,Low
+Please correct the name on invoice,Billing,Low
+I need access to contract docs,Access,High
+Laptop keyboard backlight is flickering,Hardware,Low
+Where can I find the exit policy?,HR Support,Low
+I forgot the server root pass,Access,High
+We need to buy 5 tape dispensers,Purchase,Low
+The projector remote is broken,Hardware,Low
+Invoice #665 is duplicate,Billing,Medium
+I cannot login to Bitbucket Cloud,Access,High
+My computer stutters,Hardware,Medium
+Requesting a foot switch,Purchase,Low
+What is the notice period length?,HR Support,Low
+VPN client update failed,Access,Medium
+My laptop charger smokes,Hardware,High
+Remove tax from bill,Billing,Low
+Please order a cloth,Purchase,Low
+I cannot access the onboarding app,Access,Medium
+System update failed,Hardware,Medium
+My headset is too small,Purchase,Low
+We need a license for Grammarly Edu,Purchase,Low
+Salary credited to wrong branch,HR Support,High
+I need to reset my yubikey,Access,High
+Fan is clicking,Hardware,Low
+Quote for new carpet tile,Purchase,Low
+Customer #774 wants to refund,Billing,High
+How do I claim cert cost?,HR Support,Low
+I need a new backpack,Purchase,Low
+The dishwasher is broken,Hardware,Low
+Internet is down in cafe,Hardware,Medium
+I need to install Postman App,Access,Low
+Grant me access to dev,Access,Medium
+Screen retention,Hardware,Low
+We need to buy a license for Miro Team,Purchase,Low
+Where do I submit tax forms?,HR Support,Low
+Cannot access archive drive,Access,Medium
+The web server is 500,Access,High
+Num lock is stuck,Hardware,Low
+Requesting a quote for a copier,Purchase,Low
+Billing cycle monthly,Billing,Low
+I did not receive my bonus check,HR Support,High
+Email font is too big,Access,Low
+I need a replacement keycap,Hardware,Low
+We need to purchase an eraser board,Purchase,Low
+The server rack is locked,Hardware,Low
+Forgot password for purchasing,Access,Medium
+How many sick days are left?,HR Support,Low
+My laptop screen flickers black,Hardware,Medium
+Please order 10 patch cables,Purchase,Low
+400 Bad Request api,Access,Medium
+Income tax wrong,HR Support,Medium
+Headphone jack is dust,Hardware,Low
+We need to renew amc,Purchase,High
+Cannot print A4,Hardware,Low
+Payslip leave balance error,HR Support,Low
+My SSD is slow write,Hardware,Low
+I need a copy holder,Purchase,Low
+App freezes on save,Access,Medium
+Client #99 asked for receipt,Billing,Low
+How do I withdraw PF partial?,HR Support,Low
+The hole punch is dull,Hardware,Low
+I need a license for Logic Pro,Purchase,Low
+Cannot connect to VPN from starbucks,Access,Medium
+My chair is stained,Hardware,Low
+Please refund invoice #88 partial,Billing,Medium
+I need access to board docs,Access,High
+Laptop has no wifi,Access,Medium
+Where can I find the ethics policy?,HR Support,Low
+I forgot the master key,Access,High
+We need to buy 20 pads,Purchase,Low
+The TV has no sound,Hardware,Low
+Invoice #112 is scam,Billing,High
+I cannot login to Slack web,Access,High
+My computer is overheating,Hardware,High
+Requesting a mouse pad,Purchase,Low
+What is the dating rule?,HR Support,Low
+VPN is disconnecting,Access,Medium
+My laptop battery jumps,Hardware,Medium
+Add note to invoice,Billing,Low
+Please order a air duster,Purchase,Low
+I cannot access polls,Access,Low
+System hangs on boot,Hardware,Low
+My headset is cracked,Hardware,Medium
+We need a license for Notion Personal,Purchase,Low
+Salary credited twice error,HR Support,High
+I need to reset google auth,Access,High
+Fan whines,Hardware,Low
+Quote for curtains,Purchase,Low
+Customer #442 extend terms,Billing,Medium
+How do I claim magazines?,HR Support,Low
+I need a new drawer key,HR Support,Low
+The stove is gas leak,Hardware,Low
+Internet restricted site,Access,Medium
+I need to install gcc,Access,Low
+Grant me access to ops,Access,High
+Screen scratched deep,Hardware,Low
+We need to buy a license for SurveyMonkey,Purchase,Low
+Where do I submit lease?,HR Support,Low
+Cannot access secret folder,Access,High
+The DHCP server is down,Access,High
+Home key broken,Hardware,Low
+Requesting a quote for camera,Purchase,Low
+Billing state code wrong,Billing,Low
+I did not receive offer letter,HR Support,Medium
+Email spam filter issue,Access,Medium
+I need a replacement hub,Hardware,Medium
+We need to purchase a coat hanger,Purchase,Low
+The server room is dusty,Hardware,Low
+Forgot password for hub,Access,High
+How many marriage days?,HR Support,Low
+My laptop touchpad lag,Hardware,Medium
+Please order 3 hdmi cables,Purchase,Low
+Connection reset,Access,High
+Tax statement wrong,HR Support,Low
+Speakers hiss,Hardware,Low
+We need to renew pest control,Purchase,Low
+Cannot print label maker,Hardware,Low
+Payslip format error,HR Support,Low
+My memory card write protect,Hardware,Medium
+I need a phone charger,Purchase,Low
+App responsive issue,Access,Medium
+Client #33 query invoice,Billing,Low
+How do I update email?,HR Support,Low
+The glue gun hot,Hardware,Low
+I need a license for Unreal,Purchase,Low
+Cannot connect to VPN from train wifi,Access,Medium
+My chair gas broken,Hardware,Low
+Please cancel invoice 2,Billing,Medium
+I need access to cfo folder,Access,High
+Laptop camera black,Hardware,Low
+Where can I find it policy?,HR Support,Low
+I forgot secret key,Access,Medium
+We need to buy 50 elastics,Purchase,Low
+The projector lamp,Hardware,Medium
+Invoice #221 typo,Billing,Medium
+I cannot login to Trello board,Access,Medium
+My computer blue screen,Hardware,High
+Requesting monitor stand,Purchase,Low
+What is moonlighting rule?,HR Support,Low
+VPN token lost,Access,High
+My laptop battery swell,Hardware,High
+Remove discount bill,Billing,Low
+Please order cleaner,Purchase,Low
+I cannot access forms,Access,Low
+System reboots random,Hardware,High
+My headset mic broken,Hardware,Low
+We need a license for Keep,Purchase,Low
+Salary unauthorized cut,HR Support,High
+I need to reset 2FA app,Access,High
+Fan max noise,Hardware,Low
+Quote for new desk,Purchase,Medium
+Customer #552 chargeback,Billing,High
+How do I claim meals?,HR Support,Low
+I need a new rsa token,Access,High
+The fridge hot,Hardware,Low
+Internet intermittent wifi,Hardware,Medium
+I need to install perl,Access,Low
+Grant me access to staging,Access,Medium
+Screen vertical band,Hardware,Medium
+We need to buy a license for Smartsheet,Purchase,Low
+Where do I submit bills?,HR Support,Low
+Cannot access public drive,Access,Low
+The FTP server down,Access,Medium
+Delete key broken,Hardware,Low
+Requesting a quote for shredder oil,Purchase,Low
+Billing period error,Billing,Low
+I did not receive car allowance,HR Support,Medium
+Email attachment size,Access,Medium
+I need a replacement mouse mat,Purchase,Low
+We need to purchase tray,Purchase,Low
+The server room light flickers,Hardware,Low
+Forgot password for lms,Access,Medium
+How many maternity days?,HR Support,Low
+My laptop grinding fan,Hardware,High
+Please order 5 power boards,Purchase,Low
+408 Timeout api,Access,Medium
+Tax code error,HR Support,Medium
+Speakers buzz,Hardware,Low
+We need to renew lease agreement,Purchase,High
+Cannot print edge,Access,Low
+Payslip zero pay,HR Support,High
+My flash drive broken,Hardware,Low
+I need privacy screen,Purchase,Low
+Program crash,Access,Medium
+Client #12 check bounce,Billing,Low
+How do I update location?,HR Support,Low
+The stapler broken,Hardware,Low
+I need a license for Inkscape,Purchase,Low
+Cannot connect to VPN tether,Access,Medium
+My chair back loose,Hardware,Low
+Please void bill,Billing,Medium
+I need access to strategy doc,Access,High
+Laptop feet missing,Hardware,Low
+Where can I find safety rule?,HR Support,Low
+I forgot wifi pass,Access,Low
+We need to buy 100 pins,Purchase,Low
+The HDMI port loose,Hardware,Medium
+Invoice #332 overpaid,Billing,Medium
+I cannot login to Azure portal,Access,High
+My computer malware,Access,High
+Requesting desk fan,Purchase,Low
+What is sabbatical rule?,HR Support,Low
+VPN outdated client,Access,Medium
+My laptop shuts down 10%,Hardware,Medium
+Change date bill,Billing,Low
+Please order wipes,Purchase,Low
+I cannot access survey link,Access,Low
+System fan fail,Hardware,High
+My headset static sound,Hardware,Low
+We need a license for Box,Purchase,Low
+Salary delayed 1 day,HR Support,Medium
+I need to reset password safe,Access,High
+Fan clicking noise,Hardware,Low
+Quote for reception chair,Purchase,Medium
+Customer #993 invoice,Billing,Low
+How do I claim mobile?,HR Support,Low
+I need a new gym pass,HR Support,Low
+The kettle short,Hardware,Low
+Internet slow office,Hardware,Medium
+I need to install git,Access,Low
+Grant me access to prod db,Access,High
+Screen dead pixels,Hardware,Low
+We need to buy a license for Visio,Purchase,Low
+Where do I submit tax?,HR Support,Low
+Cannot access team drive,Access,Medium
+The mail server bounce,Access,High
+Tab key stuck,Hardware,Low
+Requesting a quote for plotter ink,Purchase,Low
+Billing contact wrong,Billing,Low
+I did not receive holiday,HR Support,High
+Email images block,Access,Low
+I need a replacement bat,Hardware,Medium
+We need to purchase organizer tray,Purchase,Low
+The server room flood,Hardware,High
+Forgot password for benefits,Access,Medium
+How many paternity days?,HR Support,Low
+My laptop screen hinge,Hardware,Medium
+Please order 2 lan cables,Purchase,Low
+503 Service Unavailable site,Access,High
+Tax deducted missing,HR Support,High
+Microphone dead,Hardware,Low
+We need to renew gym pass,Purchase,Low
+Cannot print pdf file,Access,Low
+Payslip font error,HR Support,Low
+My external SSD slow,Hardware,Medium
+I need a stand,Purchase,Low
+App slow load,Access,Low
+Client #55 not paying,Billing,High
+How do I change bank account?,HR Support,Low
+The scissors broken,Hardware,Low
+I need a license for Maya 2024,Purchase,Low
+Cannot connect to VPN hotel,Access,Medium
+My chair squeaks,Hardware,Low
+Please resend bill,Billing,Low
+I need access to audit doc,Access,High
+Laptop paint chip,Hardware,Low
+Where can I find social rule?,HR Support,Low

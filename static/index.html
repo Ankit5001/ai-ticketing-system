@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartDesk Enterprise</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body>
+    
+    <aside class="sidebar">
+        <div class="logo">
+            <i class="ph-fill ph-ticket"></i>
+            <span>SmartDesk</span>
+        </div>
+        
+        <nav>
+            <a href="#" class="active"><i class="ph ph-plus-circle"></i> New Ticket</a>
+            <a href="#"><i class="ph ph-squares-four"></i> Dashboard</a>
+            <a href="#"><i class="ph ph-chart-bar"></i> Analytics</a>
+            <a href="#"><i class="ph ph-users"></i> Users</a>
+            <a href="#"><i class="ph ph-gear"></i> Settings</a>
+        </nav>
+
+        <div class="user-profile">
+            <div class="avatar">AD</div>
+            <div class="user-info">
+                <span class="name">Admin User</span>
+                <span class="role">IT Manager</span>
+            </div>
+        </div>
+    </aside>
+
+    <main class="main-content">
+        <header>
+            <h1>Support Portal</h1>
+            <p>AI-Powered Automatic Triage System</p>
+        </header>
+
+        <div class="grid-container">
+            
+            <div class="card input-section">
+                <div class="card-header">
+                    <h2><i class="ph ph-pencil-simple"></i> Create Request</h2>
+                </div>
+                
+                <div class="form-group">
+                    <label>Issue Description</label>
+                    <textarea id="ticketDesc" placeholder="Describe the incident (e.g., 'Server 4 is overheating and smoking')..."></textarea>
+                </div>
+
+                <div class="actions">
+                    <button id="submitBtn" onclick="analyzeTicket()">
+                        <span>Analyze & Route</span>
+                        <i class="ph ph-arrow-right"></i>
+                    </button>
+                    <div id="loader" class="loader hidden"></div>
+                </div>
+            </div>
+
+            <div class="card result-section">
+                <div class="card-header">
+                    <h2><i class="ph ph-lightning"></i> AI Analysis</h2>
+                    <span class="status-badge" id="aiStatus">Ready</span>
+                </div>
+
+                <div id="emptyState" class="empty-state">
+                    <i class="ph ph-robot"></i>
+                    <p>Waiting for ticket data...</p>
+                </div>
+
+                <div id="resultContent" class="result-content hidden">
+                    <div class="metric-row">
+                        <div class="metric">
+                            <span class="label">Predicted Dept</span>
+                            <div class="value" id="deptResult">--</div>
+                        </div>
+                        <div class="metric">
+                            <span class="label">Priority Level</span>
+                            <div class="badge" id="prioResult">--</div>
+                        </div>
+                    </div>
+
+                    <div class="divider"></div>
+
+                    <div class="detail-row">
+                        <span class="label">Ticket ID</span>
+                        <span class="value-mono" id="ticketId">--</span>
+                    </div>
+                    
+                    <div class="detail-row">
+                        <span class="label">Confidence</span>
+                        <span class="value-mono">98.4%</span>
+                    </div>
+                    
+                    <div class="alert-box">
+                        <i class="ph ph-check-circle"></i>
+                        <span>Ticket routed successfully to the <strong><span id="routeDept">--</span></strong> queue.</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </main>
+
+    <div class="bg-gradient"></div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

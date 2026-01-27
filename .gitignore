@@ -1,0 +1,22 @@
+# 1. Virtual Environments (Never upload these!)
+myenv/
+venv/
+env/
+.env
+
+# 2. Python Cache (Junk files generated automatically)
+__pycache__/
+*.pyc
+app/__pycache__/
+ml_training/__pycache__/
+
+# 3. IDE Settings (VS Code specific settings)
+.vscode/
+
+# 4. OS System Files (Mac/Windows junk)
+.DS_Store
+Thumbs.db
+
+# 5. Optional: Large Datasets 
+# (If your CSV is huge, uncomment the line below. For now, it's fine to keep it.)
+# ml_training/*.csv
