@@ -135,7 +135,7 @@ This project is a prototype intended for learning and demonstration purposes. Po
 ## Author
 **Ankit Chaudhary**  
 Final-year ECE student, NIT Mizoram  
-Interest areas: Backend systems, API development, applied machine learning
+Interest areas: Generative AI Backend systems, API development, applied machine learning
 
 ---
 
